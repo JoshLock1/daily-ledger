@@ -94,11 +94,16 @@ def build_prompt(clusters, markets, now, prev_concepts, manual_calendar, is_mond
 
 
 def call_claude(prompt, api_key=None, max_tokens=16000, timeout=600):
+    """Forces a tool call so the API returns already-parsed JSON (no stray-quote syntax errors)."""
     api_key = api_key or os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         raise RuntimeError("ANTHROPIC_API_KEY is not set")
-    body = json.dumps({"model": MODEL, "max_tokens": max_tokens, "system": SYSTEM,
-                       "messages": [{"role": "user", "content": prompt}]}).encode()
+    body = json.dumps({
+        "model": MODEL, "max_tokens": max_tokens, "system": SYSTEM,
+        "tools": [{"name": "publish_briefing", "description": "Submit the finished briefing as structured data matching the schema in the prompt.",
+                   "input_schema": {"type": "object", "additionalProperties": True}}],
+        "tool_choice": {"type": "tool", "name": "publish_briefing"},
+        "messages": [{"role": "user", "content": prompt}]}).encode()
     req = urllib.request.Request(API_URL, data=body, headers={
         "x-api-key": api_key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
     try:
@@ -106,7 +111,17 @@ def call_claude(prompt, api_key=None, max_tokens=16000, timeout=600):
             data = json.loads(r.read())
     except urllib.error.HTTPError as e:
         raise RuntimeError(f"Claude API error {e.code}: {e.read().decode()[:500]}")
-    return "".join(b.get("text", "") for b in data["content"] if b.get("type") == "text")
+    if data.get("stop_reason") == "max_tokens":
+        raise RuntimeError("Claude's answer was cut off (max_tokens); reduce evidence or raise max_tokens")
+    for blk in data["content"]:
+        if blk.get("type") == "tool_use":
+            out = blk["input"]
+            if isinstance(out, dict) and len(out) == 1 and isinstance(next(iter(out.values())), (dict, str)):
+                v = next(iter(out.values()))  # tolerate {"briefing": {...}} wrapping
+                out = json.loads(v) if isinstance(v, str) else v
+            return json.dumps(out)
+    raise KeyError("no tool_use block in response")
+
 
 def parse_json(text):
     text = text.strip()
