@@ -94,7 +94,7 @@ def build_prompt(clusters, markets, now, prev_concepts, manual_calendar, is_mond
 
 
 def call_claude(prompt, api_key=None, max_tokens=16000, timeout=600):
-    """Forces a tool call so the API returns already-parsed JSON (no stray-quote syntax errors)."""
+    """Asks for a tool call so the API returns already-parsed JSON (no stray-quote errors); falls back to text."""
     api_key = api_key or os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         raise RuntimeError("ANTHROPIC_API_KEY is not set")
@@ -102,8 +102,7 @@ def call_claude(prompt, api_key=None, max_tokens=16000, timeout=600):
         "model": MODEL, "max_tokens": max_tokens, "system": SYSTEM,
         "tools": [{"name": "publish_briefing", "description": "Submit the finished briefing as structured data matching the schema in the prompt.",
                    "input_schema": {"type": "object", "additionalProperties": True}}],
-        "tool_choice": {"type": "tool", "name": "publish_briefing"},
-        "messages": [{"role": "user", "content": prompt}]}).encode()
+        "messages": [{"role": "user", "content": prompt + "\n\nSubmit the finished briefing by calling the publish_briefing tool exactly once. Do not reply with plain text."}]}).encode()
     req = urllib.request.Request(API_URL, data=body, headers={
         "x-api-key": api_key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
     try:
@@ -120,7 +119,10 @@ def call_claude(prompt, api_key=None, max_tokens=16000, timeout=600):
                 v = next(iter(out.values()))  # tolerate {"briefing": {...}} wrapping
                 out = json.loads(v) if isinstance(v, str) else v
             return json.dumps(out)
-    raise KeyError("no tool_use block in response")
+    text = "".join(b.get("text", "") for b in data["content"] if b.get("type") == "text")
+    if text.strip():
+        return text  # fallback: model answered in plain text; parse_json will try to read it
+    raise KeyError("no tool_use or text block in response")
 
 
 def parse_json(text):
