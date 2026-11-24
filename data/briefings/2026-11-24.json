@@ -1,0 +1,773 @@
+{
+ "headline": "Nvidia's chief executive is reinstated after a political intervention and tech stocks rally, while a Fed official signals higher rates, new US tariffs loom, and the UK's EU reset gathers pace.",
+ "stories": [
+  {
+   "id": "nvidia-huang-reinstated",
+   "category": "companies",
+   "headline": "Nvidia reinstates Jensen Huang within days of his exit, and Trump claims credit",
+   "label": "confirmed",
+   "what_happened": "Nvidia, described by the BBC as the company at the centre of the artificial intelligence boom, has reinstated co-founder Jensen Huang as chief executive. The BBC says the company's statement claims senior US government officials backed the decision (confirmed by the company's statement as reported by the BBC). Huang had left days earlier amid reports of extramarital affairs, including, according to the Guardian, one with a suspected Chinese spy and two with employees.\n\nMarkets reacted sharply. The BBC reports that Nvidia's market value climbed by almost $1tn and that the tech-heavy Nasdaq index rose 6.5% on Monday. The Guardian describes the share price as up by about a third; the two reports use different measures and we have not reconciled them. The Guardian also reports that Nvidia shares fell on Tuesday after the rally.\n\nPresident Trump has said he 'convinced' the board to reinstate Huang (BBC), and faces a backlash for it. The Guardian reports (one outlet) that Trump made up to $15m on his Nvidia holdings after the rally. Singapore's prime minister, Lawrence Wong, said Singapore investigated Alice Huang but released her because there was 'no basis for further prosecution' (Guardian video report). That is not the same as clearing her of being an intelligence asset.\n\nOpinion pieces are sharply critical. The Guardian's Nils Pratley argues the board should resign, noting it reversed its position six days after calling the exit definitive and before finishing its investigation. A CNBC columnist argues Treasury Secretary Scott Bessent reversed a harder line on Nvidia. These are opinions, not established facts.",
+   "why_happened": "Reported drivers: lobbying by Silicon Valley figures (the Guardian reports a campaign began soon after his ousting), pressure from Trump (BBC, Guardian, FT headline), and a market sell-off that had already hit tech shares. The relative weight of each is not established in the evidence. The board's own reasoning has not been supplied beyond the company statement.",
+   "why_matters": "A single executive's fate moved a company's value by an amount the BBC puts near $1tn and lifted a major stock index. That shows how much of the market's mood now hangs on one AI company and one person. It also raises governance questions about whether a board acted independently, and whether national-security concerns about China were weighed against market stability. The Conversation notes that 'boomerang bosses' returning to a former job carry their own risks.",
+   "what_next": "Watch for the board's completion (or not) of its investigation, any congressional or regulatory scrutiny of the Trump\u2013Nvidia link (the FT newsletter notes Democrats widening a separate probe into Trump Jr-linked companies, which is a different matter), and whether the share price holds its gains.",
+   "who_affected": "Nvidia shareholders and staff; AI-dependent technology companies; US index investors; US-China technology policy; corporate governance standards.",
+   "key_takeaway": "Investors cheered a leadership reversal worth about $1tn of market value, but the governance and political questions behind it are unresolved.",
+   "vs_expectations": null,
+   "importance": 7,
+   "importance_reason": "Large market-value move in the world's most valuable chipmaker, with political and governance implications, but the underlying economic fundamentals have not changed.",
+   "glossary": [
+    {
+     "term": "Market capitalisation",
+     "meaning": "The total value of a company's shares: share price multiplied by the number of shares."
+    },
+    {
+     "term": "Corporate governance",
+     "meaning": "The rules and practices by which a company's board oversees management on behalf of shareholders."
+    }
+   ],
+   "connections": [
+    "ai-trade-fragility",
+    "us-tariffs-readied"
+   ],
+   "sources": [
+    {
+     "id": "927577a8194d",
+     "title": "Nvidia reinstates CEO after affair with alleged spy",
+     "url": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T14:51:05+00:00"
+    },
+    {
+     "id": "3c3e589cef98",
+     "title": "The rise and fall and rise again of Jensen Huang",
+     "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T15:49:52+00:00"
+    },
+    {
+     "id": "812d2a85a0ba",
+     "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+     "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T21:23:42+00:00"
+    },
+    {
+     "id": "9c30b79cef44",
+     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-24T10:53:37+00:00"
+    },
+    {
+     "id": "df0b7b27e673",
+     "title": "Trump made up to $15m on Nvidia stock after Huang\u2019s return",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T15:23:20+00:00"
+    },
+    {
+     "id": "a99aec6f3c0e",
+     "title": "Nvidia\u2019s humiliated board should resign out of embarrassment | Nils Pratley",
+     "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-23T17:37:10+00:00"
+    },
+    {
+     "id": "c8bd2005eeae",
+     "title": "Singapore investigated Alice Huang but found no basis for prosecution, prime minister says \u2013 video",
+     "url": "https://www.theguardian.com/technology/video/2026/nov/24/singapore-investigated-alice-huang-but-found-no-basis-for-prosecution-prime-minister-says-video",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T04:03:57+00:00"
+    },
+    {
+     "id": "07df62b1c46b",
+     "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China",
+     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+     "source": "CNBC Economy",
+     "tier": "news",
+     "published": "2026-11-23T21:00:59+00:00"
+    },
+    {
+     "id": "db8fd0076e40",
+     "title": "'I'm going to be a better CEO': Jensen Huang rejoins Nvidia after Trump intervention \u2013 video",
+     "url": "https://www.theguardian.com/technology/video/2026/nov/24/jensen-huang-rejoins-nvidia-after-trump-intervention-video",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T07:54:45+00:00"
+    },
+    {
+     "id": "a3396dbbdafd",
+     "title": "Jensen Huang, Nvidia and the risks that come with \u2018boomerang bosses\u2019",
+     "url": "https://theconversation.com/jensen-huang-nvidia-and-the-risks-that-come-with-boomerang-bosses-297413",
+     "source": "The Conversation Economy",
+     "tier": "analysis",
+     "published": "2026-11-24T14:34:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai-trade-fragility",
+   "category": "financial-markets",
+   "headline": "Fears over the AI boom have not gone away, even after Monday's rally",
+   "label": "opinion",
+   "what_happened": "The Guardian reports that global markets have been volatile, with investors 'getting cold feet' over AI companies. It says AI firm Anthropic launched on the stock market last week with a record-breaking first day, but on Friday stock markets worldwide fell and the Nasdaq closed 5% below its level on 1 January (reported by one outlet).\n\nMonday's rally, with the Nasdaq up 6.5% according to the BBC, followed Nvidia's reinstatement of Huang. CNBC reports Wall Street strategists saying this 'establishes a bottom' and could stop the sell-off 'for now', although spending and data-centre risks remain (strategists' opinion). The BBC's Faisal Islam argues the fears existed before Huang's exit and his return will not fix them. The Economist's headline argues copper shows how AI is distorting markets by becoming a proxy bet on the technology.\n\nSeparately, the Conference Board's consumer confidence index jumped to 103.3, with improvement across the board after Democrats' midterm victories, though inflation worries persist (CNBC).",
+   "why_happened": "The evidence offers possible, not confirmed, explanations: doubts over whether huge AI spending will earn returns, concentrated holdings in a few technology firms, and event-driven swings around company news. Strategists' views are interpretations.",
+   "why_matters": "When a few firms drive a large share of a stock index, a shock to those firms can hit pension funds, savers and the wider economy through lower wealth and tighter funding. Equally, a single piece of good news can reverse a sell-off, as Monday showed, which is a sign of fragile rather than stable sentiment.",
+   "what_next": "Whether Monday's gains hold; the Guardian reports the Nvidia share price fell on Tuesday. Data-centre spending plans and further technology earnings and listings will be tests. Individual investors should note that the Guardian piece urges care before selling.",
+   "who_affected": "Technology investors, pension and index-fund holders, firms supplying AI infrastructure and commodities such as copper, and US consumers via wealth effects.",
+   "key_takeaway": "The AI trade rebounded on one headline, but analysts quoted say the underlying worries about spending and valuations remain.",
+   "vs_expectations": null,
+   "importance": 6,
+   "importance_reason": "Market-wide volatility is noteworthy, but the evidence is mainly commentary and one-day moves.",
+   "glossary": [
+    {
+     "term": "Nasdaq",
+     "meaning": "A US stock index heavy with technology companies."
+    },
+    {
+     "term": "Proxy bet",
+     "meaning": "An investment in one asset made as an indirect way of betting on something else, here the AI boom."
+    }
+   ],
+   "connections": [
+    "nvidia-huang-reinstated",
+    "fed-williams-higher-rates"
+   ],
+   "sources": [
+    {
+     "id": "c6e842f1b8c5",
+     "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
+     "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-23T14:51:44+00:00"
+    },
+    {
+     "id": "12e1503e7fa6",
+     "title": "\u2018This establishes a bottom\u2019: Jensen Huang\u2019s return seen as likely to stop market sell-off, for now",
+     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+     "source": "CNBC Markets",
+     "tier": "news",
+     "published": "2026-11-23T18:00:47+00:00"
+    },
+    {
+     "id": "f5b8a2db69f0",
+     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+     "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-24T18:21:43+00:00"
+    },
+    {
+     "id": "0fdc56397509",
+     "title": "Copper shows how AI is messing with markets",
+     "url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
+     "source": "The Economist Finance (headlines only)",
+     "tier": "analysis",
+     "published": "2026-11-24T18:12:38+00:00"
+    },
+    {
+     "id": "812d2a85a0ba",
+     "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+     "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T21:23:42+00:00"
+    },
+    {
+     "id": "a94fd2384b2f",
+     "title": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
+     "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+     "source": "CNBC Economy",
+     "tier": "news",
+     "published": "2026-11-24T18:34:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fed-williams-higher-rates",
+   "category": "central-banks",
+   "headline": "Fed's Williams says higher interest rates are likely 'over time' to tackle inflation",
+   "label": "reported",
+   "what_happened": "CNBC reports that John Williams, a Federal Reserve policymaker described as influential, indicated higher interest rates are likely 'over time' to address inflation. He said he is confident inflation will get closer to the Fed's 2% target in 2027. We only have CNBC's headline and summary, not the full remarks, so the precise wording and timing are unconfirmed.\n\nThe supplied macro data show the federal funds rate at 3.88% and US consumer price inflation at 4.08% year on year (both for 1 October 2026), unemployment at 4.1%, and real GDP growth at 2.07% year on year (second quarter, as_of 1 July 2026 in the supplied data). The 10-year Treasury yield was 4.92% on 23 November. The Fed also published minutes of discount rate meetings on 19 and 28 October; the evidence supplies no content.\n\nSeparately, CNBC reports consumer confidence rose to 103.3, though inflation worries persist.",
+   "why_happened": "Inflation of about 4% is double the 2% target, which is the most obvious reason for talk of higher rates. The evidence does not confirm what Williams cited as his reasons.",
+   "why_matters": "If the policy rate sits below inflation, policy is not restraining prices in real terms (see concept). Signalling higher rates affects mortgage costs, company borrowing, the dollar and the valuation of growth shares, including AI firms.",
+   "what_next": "Watch further Fed speeches and the next inflation release. Also see whether tariff announcements (see tariffs story) change the inflation outlook.",
+   "who_affected": "US borrowers and savers, bond and equity investors, and countries whose borrowing costs track Treasury yields.",
+   "key_takeaway": "A senior Fed figure is pointing to higher rates over time while inflation runs at about 4%, double the target.",
+   "vs_expectations": null,
+   "importance": 6,
+   "importance_reason": "Policy signals matter widely, but this is a single report with limited detail.",
+   "glossary": [
+    {
+     "term": "Federal funds rate",
+     "meaning": "The Fed's key policy interest rate, which influences borrowing costs across the US economy."
+    },
+    {
+     "term": "Treasury yield",
+     "meaning": "The annual return on a US government bond; it also serves as a benchmark for other borrowing costs."
+    }
+   ],
+   "connections": [
+    "us-tariffs-readied",
+    "ai-trade-fragility"
+   ],
+   "sources": [
+    {
+     "id": "8642b27e9894",
+     "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+     "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+     "source": "CNBC Markets",
+     "tier": "news",
+     "published": "2026-11-24T13:33:26+00:00"
+    },
+    {
+     "id": "a22a480c189f",
+     "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+     "source": "Federal Reserve Press Releases",
+     "tier": "primary",
+     "published": "2026-11-24T19:00:00+00:00"
+    },
+    {
+     "id": "a94fd2384b2f",
+     "title": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
+     "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+     "source": "CNBC Economy",
+     "tier": "news",
+     "published": "2026-11-24T18:34:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": "us-tariffs-readied",
+   "category": "geopolitics",
+   "headline": "Trump reported to be readying new tariffs on China, the EU, Japan and South Korea",
+   "label": "reported",
+   "what_happened": "The Financial Times, in a headline and standfirst only, reports that President Trump is preparing a 'raft of new tariffs' on major economies, with China, the EU, Japan and South Korea expected to be hit as he 'doubles down on trade strategy'. No rates, dates or product lists are supplied. This is a single outlet and we cannot see its sourcing.",
+   "why_happened": "The evidence says only that this is a doubling-down on existing trade strategy. Motives are not given.",
+   "why_matters": "Tariffs are taxes on imports. They typically raise prices for consumers and firms and invite retaliation. With inflation at 4.08% in the supplied data, further tariffs could complicate the Fed's task. They would also hit the UK's neighbours and key technology supply chains.",
+   "what_next": "Look for an official announcement with rates and dates, and any retaliation from the EU, China, Japan or South Korea.",
+   "who_affected": "Exporters in the named economies, US importers and consumers, and markets sensitive to trade policy.",
+   "key_takeaway": "A single-source report suggests another round of US tariffs; details are unknown.",
+   "vs_expectations": null,
+   "importance": 6,
+   "importance_reason": "Potentially wide consequences, but unconfirmed and without detail.",
+   "glossary": [
+    {
+     "term": "Tariff",
+     "meaning": "A tax charged on imported goods."
+    }
+   ],
+   "connections": [
+    "fed-williams-higher-rates",
+    "uk-eu-made-in-europe"
+   ],
+   "sources": [
+    {
+     "id": "1ebf874f7500",
+     "title": "Trump readies raft of new tariffs on major economies",
+     "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T16:30:35+00:00"
+    }
+   ]
+  },
+  {
+   "id": "uk-eu-made-in-europe",
+   "category": "geopolitics",
+   "headline": "UK edges towards 'Made in Europe' status for cars as Burnham resets EU ties",
+   "label": "reported",
+   "what_happened": "The FT reports that the EU is edging towards including UK-built cars in its 'Made in Europe' subsidy scheme, which it calls a significant diplomatic win for Prime Minister Andy Burnham. The Guardian reports that the Irish presidency of the EU has proposed giving the UK 'partner' status on car assembly, and that the UK would not have to follow the EU in applying tariffs on Chinese car imports. Foreign Secretary Ed Miliband told a parliamentary committee there had been 'a transformation in the EU view'.\n\nThe Guardian's podcast says Burnham has set out plans to win parliamentary backing for a new EU deal, but options for how Britain could rejoin the EU or 'Breturn' will not be outlined until December. A Guardian editorial backs a cautious, consensus-building approach. This is a proposal, not an agreed deal.\n\nThe auto industry context: the Guardian reports that the \u00a35.2bn Agratas gigafactory in Bridgwater, intended to supply Jaguar Land Rover batteries, has lost its second builder in five months, raising questions about when JLR cars will use British-made batteries.",
+   "why_happened": "The evidence points to a political reset of UK-EU relations under Burnham and to an Irish-led compromise. The Guardian does not state why the gigafactory contractors left.",
+   "why_matters": "Rules on where a car's parts originate determine whether it qualifies for subsidies and tariff-free trade. Access to the EU's scheme could protect UK car exports, while local battery supply decides whether UK plants stay competitive. The Chinese-tariff carve-out would let the UK set its own policy.",
+   "what_next": "More detail on the Irish proposal and the December options paper. For the gigafactory, whether a new contractor is named.",
+   "who_affected": "UK carmakers and suppliers (notably JLR), EU partners, UK consumers and UK trade policy.",
+   "key_takeaway": "A UK-EU car-trade breakthrough is being proposed, but nothing is agreed and the UK's own battery plant is in difficulty.",
+   "vs_expectations": null,
+   "importance": 5,
+   "importance_reason": "Significant for UK industry and trade policy, though still at the proposal stage.",
+   "glossary": [
+    {
+     "term": "Gigafactory",
+     "meaning": "A very large factory, here for making electric-vehicle batteries."
+    },
+    {
+     "term": "Rules of origin",
+     "meaning": "Rules deciding how much of a product must be made in a region to qualify for its trade benefits."
+    }
+   ],
+   "connections": [
+    "us-tariffs-readied",
+    "compass-leaves-london"
+   ],
+   "sources": [
+    {
+     "id": "90f74592807f",
+     "title": "EU edges towards Made in Europe deal for UK cars",
+     "url": "https://www.ft.com/content/b37579ba-a811-436b-bc00-95f5bfbb7fd9?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T12:07:48+00:00"
+    },
+    {
+     "id": "f2bacd55c1a0",
+     "title": "Irish plan offers Burnham breakthrough on Made in Europe",
+     "url": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T16:09:12+00:00"
+    },
+    {
+     "id": "caf9878dcf91",
+     "title": "What tactics will Burnham use to sell his EU plans? \u2013 podcast",
+     "url": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-23T17:42:13+00:00"
+    },
+    {
+     "id": "ecc6c2d82ce2",
+     "title": "The Guardian view on Andy Burnham\u2019s EU intentions: undogmatic consensus building is a sensible strategy | Editorial",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/23/the-guardian-view-on-andy-burnhams-eu-intentions-undogmatic-consensus-building-is-the-sensible-strategy",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-23T18:28:47+00:00"
+    },
+    {
+     "id": "aef8ec94c7f5",
+     "title": "Flagship UK gigafactory plan in turmoil after it loses second builder in five months",
+     "url": "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-23T12:26:51+00:00"
+    }
+   ]
+  },
+  {
+   "id": "uk-disability-benefits-review",
+   "category": "global-economy",
+   "headline": "Pip review to call for 'fundamental overhaul' as Burnham is warned about a \u00a340bn bill",
+   "label": "reported",
+   "what_happened": "The BBC reports that Disability Minister Sir Stephen Timms will recommend major reforms to the personal independence payment (Pip), a UK disability benefit, saying assessments need a 'fundamental overhaul'. The BBC says the review was commissioned last year after the government was forced to water down planned benefit cuts.\n\nThe FT headline says Burnham has been warned the review risks increasing a '\u00a340bn bill', and that the government will try to reconcile Timms's recommendations with a separate report last week by Alan Milburn. We lack the full text of either report, so the meaning of the \u00a340bn and the details of the recommendations are not confirmed.",
+   "why_happened": "Per the BBC, political resistance to earlier cuts led to a review. The reform direction follows from that.",
+   "why_matters": "Disability and welfare spending is a large and growing part of the UK budget. Reforms trade off fiscal cost, claimant welfare and employment.",
+   "what_next": "Publication of the Timms report and the government's reconciliation with the Milburn report.",
+   "who_affected": "Disability-benefit claimants, the Treasury and taxpayers, and the UK's public finances.",
+   "key_takeaway": "Reform of a big benefit is coming, with a warning that it could raise costs rather than cut them.",
+   "vs_expectations": null,
+   "importance": 5,
+   "importance_reason": "Large fiscal and social stakes, but details are not yet public in the evidence.",
+   "glossary": [
+    {
+     "term": "Pip (personal independence payment)",
+     "meaning": "A UK benefit to help with the extra costs of long-term illness or disability."
+    }
+   ],
+   "connections": [
+    "eurozone-fiscal-pressure"
+   ],
+   "sources": [
+    {
+     "id": "915494bd598f",
+     "title": "Pip assessments need 'fundamental overhaul', report to say",
+     "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T17:59:55+00:00"
+    },
+    {
+     "id": "0a36b696aa6c",
+     "title": "Burnham warned disability benefits review risks increasing \u00a340bn bill",
+     "url": "https://www.ft.com/content/9d384d2f-e0d2-4a69-b377-fb5bc1e7d091?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T18:20:52+00:00"
+    },
+    {
+     "id": "a3d851196d64",
+     "title": "Welfare cuts: What's been happening with Pip and universal credit?",
+     "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T13:52:40+00:00"
+    }
+   ]
+  },
+  {
+   "id": "eurozone-fiscal-pressure",
+   "category": "global-economy",
+   "headline": "EU warns France and Belgium on public finances as France faces recession risk",
+   "label": "reported",
+   "what_happened": "The FT reports that the European Commission has warned France and Belgium to put public finances on a 'sustainable path', and warned Germany it could face additional monitoring next year owing to excessive public spending (FT headline only).\n\nCNBC reports that the Governor of the Bank of France, Emmanuel Moulin, said he still expects growth, pointing to resilience in sectors including defence, aerospace and electricity, as the article discusses why France is at risk of recession. The BBC reports flights were cancelled in Belgium due to a cost-of-living strike, one of a series of strikes in recent months as the prime minister struggles to agree a budget to cut costs.",
+   "why_happened": "The evidence indicates budget deficits and difficulty in agreeing spending cuts. No figures are supplied.",
+   "why_matters": "Governments squeezed between austerity and unrest may struggle to reduce borrowing. With the US 10-year yield at 4.92%, global borrowing costs are high, making debt harder to service.",
+   "what_next": "Belgium's budget negotiations and further strikes; any French response to the Commission.",
+   "who_affected": "French, Belgian and German taxpayers and government bondholders; eurozone growth; travellers.",
+   "key_takeaway": "Europe's biggest governments are under pressure to rein in borrowing while their economies and politics resist.",
+   "vs_expectations": null,
+   "importance": 5,
+   "importance_reason": "Significant for euro-area stability, but much of the detail is only in headlines.",
+   "glossary": [
+    {
+     "term": "Excessive deficit procedure",
+     "meaning": "An EU process that monitors and presses countries whose budget deficits exceed agreed limits. The evidence refers to 'additional monitoring' only."
+    }
+   ],
+   "connections": [
+    "uk-disability-benefits-review",
+    "fed-williams-higher-rates"
+   ],
+   "sources": [
+    {
+     "id": "dfa1b1eb65d4",
+     "title": "EU warns France and Belgium to put public finances on \u2018sustainable path\u2019",
+     "url": "https://www.ft.com/content/20e28c3f-31b8-40d2-bbb7-ee3f92ede6ac?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T18:02:04+00:00"
+    },
+    {
+     "id": "8aad6a2decd0",
+     "title": "Why France is at risk of recession \u2014 and what could keep it out of one",
+     "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+     "source": "CNBC Economy",
+     "tier": "news",
+     "published": "2026-11-24T11:15:30+00:00"
+    },
+    {
+     "id": "963d3ef7d709",
+     "title": "Flights cancelled in Belgium due to cost-of-living strike",
+     "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T13:34:02+00:00"
+    }
+   ]
+  },
+  {
+   "id": "compass-leaves-london",
+   "category": "companies",
+   "headline": "Compass Group plans to move its main listing from London to New York",
+   "label": "confirmed",
+   "what_happened": "Compass Group, described as the world's largest catering group, confirmed it plans to move its main stock market listing to the US. It says it has become 'a predominantly North American business' and that New York offers 'the world's largest and deepest pool of capital'. It has begun consulting shareholders, two-fifths of whom are US-based (Guardian). The Guardian's Nils Pratley (opinion) says the planned switch is in 2028, that Compass is the 18th-largest FTSE 100 company, and calls its logic 'flimsy' while criticising ministers for not doing enough to discourage other departures.",
+   "why_happened": "Confirmed company reasoning: its business is mostly North American and the US has deeper capital markets. Pratley's view is that this does not fully explain it.",
+   "why_matters": "Each large departure shrinks London's market, which can reduce liquidity and the pool of listed firms available to UK pension funds. It is a signal about the UK's attractiveness for capital.",
+   "what_next": "The shareholder consultation; whether other FTSE 100 companies follow.",
+   "who_affected": "London Stock Exchange, UK investors, Compass shareholders and employees, UK policymakers.",
+   "key_takeaway": "Another big company is leaving London for New York, adding to concern about the UK market's drawing power.",
+   "vs_expectations": null,
+   "importance": 4,
+   "importance_reason": "Notable for the UK market, but the move is two years away and the company's operations are unchanged.",
+   "glossary": [
+    {
+     "term": "Primary listing",
+     "meaning": "The main stock exchange where a company's shares are traded and regulated."
+    },
+    {
+     "term": "FTSE 100",
+     "meaning": "An index of the 100 largest companies listed in London."
+    }
+   ],
+   "connections": [
+    "uk-eu-made-in-europe"
+   ],
+   "sources": [
+    {
+     "id": "7343f381c0f0",
+     "title": "NHS caterer Compass confirms plan to ditch main London listing for New York",
+     "url": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T13:30:22+00:00"
+    },
+    {
+     "id": "5848cd8f3262",
+     "title": "Compass\u2019s logic for US listing is flimsy but UK ministers need to wake up to Footsie flight risk | Nils Pratley",
+     "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/24/compass-logic-new-york-listing-flimsy",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T17:15:19+00:00"
+    }
+   ]
+  },
+  {
+   "id": "cyber-resilience",
+   "category": "companies",
+   "headline": "Cyber incidents and sabotage warnings highlight third-party and infrastructure risk",
+   "label": "reported",
+   "what_happened": "Retailer Next said a third-party technology supplier suffered a cyber incident that gave hackers unauthorised access to data relating to Next (BBC, Guardian). Next says it believes no personal data that could lead to fraud was accessed and describes the data as 'benign'; this is the company's own assessment.\n\nThe Guardian reports a run of outages in the US affecting flights, banks, Microsoft Outlook and websites such as Zoom and Ikea; experts it interviewed discuss AI, underfunding and the fragility of complex systems. The FT reports that MI5 has warned UK companies supplying Ukraine's military about Russian sabotage, including arson carried out by proxy agents (FT headline only).",
+   "why_happened": "The Next incident came through a supplier, not Next's own systems. The causes of the US outages are not established in the evidence.",
+   "why_matters": "Companies depend on chains of suppliers, so one weak link can expose many. Outages and attacks impose direct costs and can disrupt trade.",
+   "what_next": "Whether Next's assessment holds up, and any regulatory or corporate response.",
+   "who_affected": "Retailers, banks, airlines, defence suppliers and their customers.",
+   "key_takeaway": "Third-party and infrastructure weaknesses are an economic risk, not only a technical one.",
+   "vs_expectations": null,
+   "importance": 4,
+   "importance_reason": "Noteworthy pattern, but individual incidents here appear contained.",
+   "glossary": [
+    {
+     "term": "Supply-chain (third-party) cyber risk",
+     "meaning": "The risk that attackers reach a company by compromising one of its suppliers."
+    }
+   ],
+   "connections": [],
+   "sources": [
+    {
+     "id": "c3de3f8e6fd3",
+     "title": "Next data accessed in cyber breach",
+     "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T12:34:07+00:00"
+    },
+    {
+     "id": "5c7423ebaf49",
+     "title": "Next issues cyber-attack warning after \u2018benign\u2019 data accessed by hackers",
+     "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-23T14:50:31+00:00"
+    },
+    {
+     "id": "8d8ce2d8f0e9",
+     "title": "How freaked out should we be? After mass outages, experts tell us how close we are to \u2018doomsday\u2019",
+     "url": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-23T16:58:17+00:00"
+    },
+    {
+     "id": "a7c4243bf4c8",
+     "title": "MI5 warns UK companies supplying Ukraine military about Russian sabotage risk",
+     "url": "https://www.ft.com/content/d9f17145-cdc0-424a-bace-7147a971d0ab?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T14:30:21+00:00"
+    }
+   ]
+  },
+  {
+   "id": "venezuela-debt-restructuring",
+   "category": "global-economy",
+   "headline": "Venezuela publishes $240bn debt figure ahead of a historic restructuring",
+   "label": "reported",
+   "what_happened": "The FT reports (headline and standfirst only) that Venezuela's finance ministry has unveiled a $240bn debt pile and published what it calls a 'clear and credible' economic plan, 10 months after the US removed Nicol\u00e1s Maduro from power. A restructuring is described as 'historic'. No terms, timetable or creditor positions are in the evidence.",
+   "why_happened": "The evidence ties this to the political change in Venezuela but gives no further detail.",
+   "why_matters": "A sovereign debt restructuring renegotiates what a government owes creditors. A $240bn figure would make this a very large case, which matters to bondholders and to the country's oil-linked recovery prospects.",
+   "what_next": "The formal start of talks and the creditor response.",
+   "who_affected": "Venezuelan citizens, bondholders, oil markets and emerging-market investors.",
+   "key_takeaway": "The scale of Venezuela's debts has been laid out; the hard negotiation is ahead.",
+   "vs_expectations": null,
+   "importance": 4,
+   "importance_reason": "Large figure, but early-stage and single-source.",
+   "glossary": [
+    {
+     "term": "Sovereign debt restructuring",
+     "meaning": "An agreement between a government and its creditors to change the terms of its debt, such as lowering payments or extending deadlines."
+    }
+   ],
+   "connections": [],
+   "sources": [
+    {
+     "id": "7d1b66319449",
+     "title": "Venezuela unveils $240bn debt pile ahead of historic restructuring",
+     "url": "https://www.ft.com/content/5975ac9e-20a2-4c20-a0e8-805892253272?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T17:53:01+00:00"
+    }
+   ]
+  }
+ ],
+ "bigger_picture": [
+  {
+   "title": "One company, one index, one mood",
+   "story_ids": [
+    "nvidia-huang-reinstated",
+    "ai-trade-fragility",
+    "fed-williams-higher-rates"
+   ],
+   "mechanism": "Share prices in a few giant AI firms carry the technology index. When a leadership shock hit Nvidia, the index fell; when it reversed, the index jumped (Nasdaq up 6.5% per the BBC). Rising or falling stock wealth then feeds into consumer confidence and corporate funding. Meanwhile, if inflation near 4% pushes the Fed towards higher rates, the future profits of growth companies are discounted more heavily, which is a possible drag on the AI trade. That link is an interpretation, not stated in the evidence.",
+   "caveats": "Evidence on the rate-and-equity link is inferential. Consumer confidence rose for reasons the report links to the midterms."
+  },
+  {
+   "title": "Trade policy, prices and borrowing costs",
+   "story_ids": [
+    "us-tariffs-readied",
+    "fed-williams-higher-rates",
+    "eurozone-fiscal-pressure"
+   ],
+   "mechanism": "New tariffs would raise import prices, adding to inflation that is already about double the Fed's target. That may keep US rates and Treasury yields high (10-year at 4.92%), which raises borrowing costs for indebted governments such as those the EU is warning. All of this is a possible chain, not a confirmed one.",
+   "caveats": "The tariff report is a single FT headline with no details."
+  },
+  {
+   "title": "Britain's search for capital and trading partners",
+   "story_ids": [
+    "uk-eu-made-in-europe",
+    "compass-leaves-london",
+    "uk-disability-benefits-review"
+   ],
+   "mechanism": "The UK is courting EU market access for its industry while a large company leaves London for deeper US capital markets and welfare spending pressures the budget. These pull in different directions: attracting investment and trade deals needs credibility, which depends partly on fiscal discipline.",
+   "caveats": "These stories are separate events; the connection is analytical."
+  }
+ ],
+ "markets_telling_us": [
+  {
+   "market": "US 10-year Treasury yield and yield curve",
+   "what_happened": "The 10-year yield was 4.92% on 23 November, and the 10-year minus 2-year spread was 0.28 percentage points on 24 November (supplied macro data). No daily equity, currency, oil or gold closes were supplied.",
+   "significance": "A 10-year yield near 5% means long-term government borrowing is expensive. A positive spread means longer-term yields exceed short-term yields.",
+   "possible_drivers": [
+    {
+     "driver": "Inflation near 4% keeping rate expectations elevated",
+     "status": "possible"
+    },
+    {
+     "driver": "Expected further tariffs adding to price pressures",
+     "status": "possible"
+    },
+    {
+     "driver": "Government borrowing needs",
+     "status": "possible"
+    }
+   ],
+   "what_it_suggests": "Investors are demanding a high return to lend to the US for a decade, consistent with persistent inflation worries. This is interpretation; the evidence states no cause.",
+   "wider_economy": "High yields feed through to mortgages, corporate loans and government interest bills.",
+   "watch_next": "The next Fed communications, inflation data and tariff announcements."
+  },
+  {
+   "market": "US technology stocks (Nasdaq)",
+   "what_happened": "Per the BBC, the Nasdaq rose 6.5% on Monday as Nvidia added almost $1tn in value. The Guardian says the index had closed 5% below its 1 January level on Friday. The Guardian also reports Nvidia shares fell on Tuesday after the rally. We do not have the market closing data.",
+   "significance": "A large daily rise after a sell-off shows how sentiment-driven the AI trade is.",
+   "possible_drivers": [
+    {
+     "driver": "Huang's reinstatement (stated by the BBC as lifting stocks)",
+     "status": "confirmed"
+    },
+    {
+     "driver": "Relief after Friday's global sell-off",
+     "status": "possible"
+    },
+    {
+     "driver": "Doubts about AI spending returns",
+     "status": "possible"
+    }
+   ],
+   "what_it_suggests": "Confidence is high-beta: easily moved by single events.",
+   "wider_economy": "Equity wealth influences spending and business investment.",
+   "watch_next": "Whether Nvidia holds gains after Tuesday's pullback."
+  }
+ ],
+ "market_relationships": "No market close data except Treasury yields were supplied, so this is limited interpretation. A 10-year yield near 4.92% alongside inflation near 4% suggests investors want compensation for price risks. Technology stocks, whose valuations rest on profits far in the future, tend to be sensitive to such yields, which may help explain the tech sell-off before Monday's rebound, though no source confirms this. The Economist's headline notes that commodities such as copper are also being traded as AI proxies, so a technology shock may spill into raw materials.",
+ "reports": [
+  {
+   "title": "Timms review of Pip and Milburn report on benefits",
+   "examines": "How the UK's personal independence payment is assessed and the wider disability-benefits system.",
+   "producer": "Disability Minister Sir Stephen Timms (government review) and a separate report by Alan Milburn, per the FT.",
+   "credibility": "Government-commissioned; we have only press summaries of each, not the reports.",
+   "key_findings": "Per the BBC, Timms says Pip assessments need a 'fundamental overhaul'. The FT says the government must reconcile this with Milburn's report and that Burnham was warned it risks increasing a \u00a340bn bill.",
+   "statistics_mean": "The \u00a340bn figure is from an FT headline without explanation; do not read it as a precise cost of the reforms.",
+   "implications": "Could reshape eligibility and spending in a major benefit.",
+   "limitations": "Full texts and costings not supplied; BBC says the report is 'to say', so details may change.",
+   "monitor": "Publication date, costings, and any government response.",
+   "sources": [
+    {
+     "id": "915494bd598f",
+     "title": "Pip assessments need 'fundamental overhaul', report to say",
+     "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T17:59:55+00:00"
+    },
+    {
+     "id": "0a36b696aa6c",
+     "title": "Burnham warned disability benefits review risks increasing \u00a340bn bill",
+     "url": "https://www.ft.com/content/9d384d2f-e0d2-4a69-b377-fb5bc1e7d091?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T18:20:52+00:00"
+    }
+   ]
+  }
+ ],
+ "historical": [
+  {
+   "title": "Technology booms and the dot-com bust",
+   "story_ids": [
+    "ai-trade-fragility",
+    "nvidia-huang-reinstated"
+   ],
+   "macro_series": [
+    "FEDFUNDS"
+   ],
+   "what_happened_then": "Background: US technology shares surged in the late 1990s, with the Nasdaq peaking in March 2000. It then fell by roughly three-quarters by 2002 as many internet firms failed to earn expected profits.",
+   "conditions_then": "Rising interest rates, heavy investment in new technology and very high valuations.",
+   "similarities": "Strong enthusiasm for a transformative technology, concentrated stock-market leadership, and worries that spending may exceed returns.",
+   "differences": "Today's leaders are very profitable companies, whereas many dot-com firms had little revenue. Rates and inflation conditions also differ. The supplied data show the Fed rate at 3.88% and inflation at 4.08%.",
+   "lessons": "Sentiment can turn quickly in both directions; a technology can be real while its valuations are too high.",
+   "not_a_prediction": "History is not a prediction. This comparison does not imply a bust now.",
+   "basis": "background"
+  },
+  {
+   "title": "Tariffs and trade retaliation",
+   "story_ids": [
+    "us-tariffs-readied"
+   ],
+   "macro_series": [
+    "CPIAUCSL"
+   ],
+   "what_happened_then": "Background: the US Smoot-Hawley Tariff Act of 1930 raised duties on many imports and was followed by retaliation from trading partners, and world trade shrank during the Depression.",
+   "conditions_then": "A severe global downturn, the gold standard and weak international coordination.",
+   "similarities": "Use of broad tariffs by the US and the risk of retaliation.",
+   "differences": "Today's supply chains, central-bank tools and institutions differ greatly, and the new measures' scale is unknown.",
+   "lessons": "Tariffs are likely to raise prices and provoke responses, but the effect depends on scale and timing.",
+   "not_a_prediction": "History is not a prediction; the details of today's tariffs are unknown.",
+   "basis": "background"
+  }
+ ],
+ "calendar": [],
+ "concept": {
+  "name": "Real interest rate",
+  "level": "intermediate",
+  "meaning": "The interest rate after subtracting inflation. It measures the true cost of borrowing and the true reward for saving.",
+  "how_it_works": "Approximately, real rate = nominal rate minus inflation. If a loan costs 4% and prices rise 4%, the real rate is zero. A negative real rate means borrowers repay in money that buys less, which tends to stimulate spending; a clearly positive one tends to restrain it. Central banks care about real rates because they, not nominal rates, drive decisions about borrowing, saving and investing. Precise figures depend on which inflation measure and expectation is used.",
+  "why_matters": "A policy rate that is below inflation is often described as supportive of demand, which can keep inflation up. This is why central bankers talk of raising rates 'over time' to bring inflation back to target.",
+  "example": "Using the supplied data, the federal funds rate is 3.88% and CPI inflation is 4.08% (both for 1 October 2026), a real policy rate of about minus 0.2 percentage points. This is a rough illustration: the Fed formally targets a different inflation gauge and looks at expected inflation, not only past inflation.",
+  "relates_to_today": "John Williams's comments, as reported by CNBC, about higher rates over time to bring inflation towards 2% in 2027 make sense in this light. If tariffs add to prices, the real rate would fall further unless rates rise."
+ },
+ "weekly_outlook": null,
+ "model": "claude-sonnet-5-5",
+ "date": "2026-11-24",
+ "generated": "2026-11-24T23:22:27.140630+00:00",
+ "evidence_items": 94,
+ "source_health": {
+  "BBC Business": true,
+  "The Guardian Business": true,
+  "CNBC Economy": true,
+  "CNBC Markets": true,
+  "MarketWatch Top Stories": true,
+  "Yahoo Finance": false,
+  "The Conversation Economy": true,
+  "Financial Times (headlines only)": true,
+  "The Economist Finance (headlines only)": true,
+  "Federal Reserve Press Releases": true,
+  "Federal Reserve Speeches": true,
+  "Bank of England News": true,
+  "ECB Press": true,
+  "IMF News": false,
+  "World Bank Press": false,
+  "OECD News": false,
+  "ONS Releases": false,
+  "BLS Latest Numbers": true,
+  "BEA News": false,
+  "US Treasury Press": false
+ }
+}

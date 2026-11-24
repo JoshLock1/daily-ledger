@@ -1,199 +1,199 @@
 {
- "updated": "2026-11-24T23:08:50.924008+00:00",
+ "updated": "2026-11-24T23:22:27.140630+00:00",
  "sources": {
   "BBC Business": {
    "ok": true,
    "items": 59,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "The Guardian Business": {
    "ok": true,
    "items": 40,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "items": 30,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "items": 30,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "MarketWatch Top Stories": {
    "ok": true,
    "items": 10,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Yahoo Finance": {
    "ok": false,
    "error": "HTTPError: HTTP Error 404: Not Found",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "The Conversation Economy": {
    "ok": true,
    "items": 25,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Financial Times (headlines only)": {
    "ok": true,
    "items": 25,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "The Economist Finance (headlines only)": {
    "ok": true,
    "items": 300,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Federal Reserve Press Releases": {
    "ok": true,
    "items": 20,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Federal Reserve Speeches": {
    "ok": true,
    "items": 15,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Bank of England News": {
    "ok": true,
    "items": 50,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "ECB Press": {
    "ok": true,
    "items": 15,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "IMF News": {
    "ok": false,
    "error": "HTTPError: HTTP Error 403: Forbidden",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "World Bank Press": {
    "ok": false,
    "error": "ParseError: mismatched tag: line 63, column 4",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "OECD News": {
    "ok": false,
    "error": "HTTPError: HTTP Error 403: Forbidden",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "ONS Releases": {
    "ok": false,
    "error": "ParseError: not well-formed (invalid token): line 65, column 19",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "BLS Latest Numbers": {
    "ok": true,
    "items": 1,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "BEA News": {
    "ok": false,
    "error": "HTTPError: HTTP Error 404: Not Found",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "US Treasury Press": {
    "ok": false,
    "error": "HTTPError: HTTP Error 404: Not Found",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq S&P 500": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq Nasdaq 100": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq FTSE 100": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq DAX": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq Nikkei 225": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq Gold (USD/oz)": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq WTI crude": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq Brent crude": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq GBP/USD": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq EUR/USD": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq US dollar index (DXY proxy)": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq US 10-year yield (%)": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq UK 10-year gilt yield (%)": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "Stooq Bitcoin (USD)": {
    "ok": false,
    "error": "ValueError: no data returned",
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "FRED FEDFUNDS": {
    "ok": true,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "FRED CPIAUCSL": {
    "ok": true,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "FRED UNRATE": {
    "ok": true,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "FRED DGS10": {
    "ok": true,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "FRED T10Y2Y": {
    "ok": true,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   },
   "FRED GDPC1": {
    "ok": true,
-   "checked": "2026-11-24T23:08:50.924008+00:00"
+   "checked": "2026-11-24T23:22:27.140630+00:00"
   }
  }
 }
