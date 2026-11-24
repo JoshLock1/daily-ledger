@@ -1,0 +1,49 @@
+{
+  "feeds": [
+    {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "tier": "news"},
+    {"name": "The Guardian Business", "url": "https://www.theguardian.com/uk/business/rss", "tier": "news"},
+    {"name": "CNBC Economy", "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html", "tier": "news"},
+    {"name": "CNBC Markets", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html", "tier": "news"},
+    {"name": "MarketWatch Top Stories", "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "tier": "news"},
+    {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rssindex", "tier": "news"},
+    {"name": "The Conversation Economy", "url": "https://theconversation.com/uk/business/articles.atom", "tier": "analysis"},
+    {"name": "Financial Times (headlines only)", "url": "https://www.ft.com/world?format=rss", "tier": "news"},
+    {"name": "The Economist Finance (headlines only)", "url": "https://www.economist.com/finance-and-economics/rss.xml", "tier": "analysis"},
+    {"name": "Federal Reserve Press Releases", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "tier": "primary"},
+    {"name": "Federal Reserve Speeches", "url": "https://www.federalreserve.gov/feeds/speeches.xml", "tier": "primary"},
+    {"name": "Bank of England News", "url": "https://www.bankofengland.co.uk/rss/news", "tier": "primary"},
+    {"name": "ECB Press", "url": "https://www.ecb.europa.eu/rss/press.html", "tier": "primary"},
+    {"name": "IMF News", "url": "https://www.imf.org/en/News/rss?language=eng", "tier": "primary"},
+    {"name": "World Bank Press", "url": "https://www.worldbank.org/en/news/all?format=rss", "tier": "primary"},
+    {"name": "OECD News", "url": "https://www.oecd.org/newsroom/index.xml", "tier": "primary"},
+    {"name": "ONS Releases", "url": "https://www.ons.gov.uk/releases?rss", "tier": "primary"},
+    {"name": "BLS Latest Numbers", "url": "https://www.bls.gov/feed/bls_latest.rss", "tier": "primary"},
+    {"name": "BEA News", "url": "https://www.bea.gov/news/rss.xml", "tier": "primary"},
+    {"name": "US Treasury Press", "url": "https://home.treasury.gov/rss/press-releases", "tier": "primary"}
+  ],
+  "_note_feeds": "Reuters and AP no longer offer stable public RSS. Add a licensed or Google-News-style feed yourself if you want them. Feed URLs are unverified from the build sandbox (no network); source health monitoring will flag any that fail. FT/Economist feeds yield headlines/teasers only; the pipeline never fetches article bodies.",
+  "markets": [
+    {"id": "spx", "name": "S&P 500", "stooq": "^spx", "group": "Equities"},
+    {"id": "ndq", "name": "Nasdaq 100", "stooq": "^ndq", "group": "Equities"},
+    {"id": "ukx", "name": "FTSE 100", "stooq": "^ukx", "group": "Equities"},
+    {"id": "dax", "name": "DAX", "stooq": "^dax", "group": "Equities"},
+    {"id": "nkx", "name": "Nikkei 225", "stooq": "^nkx", "group": "Equities"},
+    {"id": "gold", "name": "Gold (USD/oz)", "stooq": "xauusd", "group": "Commodities"},
+    {"id": "wti", "name": "WTI crude", "stooq": "cl.f", "group": "Commodities"},
+    {"id": "brent", "name": "Brent crude", "stooq": "lco.f", "group": "Commodities"},
+    {"id": "gbpusd", "name": "GBP/USD", "stooq": "gbpusd", "group": "Currencies"},
+    {"id": "eurusd", "name": "EUR/USD", "stooq": "eurusd", "group": "Currencies"},
+    {"id": "usdidx", "name": "US dollar index (DXY proxy)", "stooq": "dx.f", "group": "Currencies"},
+    {"id": "us10y", "name": "US 10-year yield (%)", "stooq": "10usy.b", "group": "Bonds"},
+    {"id": "uk10y", "name": "UK 10-year gilt yield (%)", "stooq": "10uky.b", "group": "Bonds"},
+    {"id": "btc", "name": "Bitcoin (USD)", "stooq": "btcusd", "group": "Crypto"}
+  ],
+  "fred": [
+    {"id": "FEDFUNDS", "name": "US Federal funds rate (%)", "transform": "level"},
+    {"id": "CPIAUCSL", "name": "US CPI inflation, year on year (%)", "transform": "yoy"},
+    {"id": "UNRATE", "name": "US unemployment rate (%)", "transform": "level"},
+    {"id": "DGS10", "name": "US 10-year Treasury yield (%)", "transform": "level"},
+    {"id": "T10Y2Y", "name": "US yield curve: 10y minus 2y (pp)", "transform": "level"},
+    {"id": "GDPC1", "name": "US real GDP growth, year on year (%)", "transform": "yoy"}
+  ]
+}
