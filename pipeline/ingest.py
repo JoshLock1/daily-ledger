@@ -90,11 +90,11 @@ def parse_feed(xml_bytes, source):
     return out
 
 
-def fetch(url, timeout=20, retries=2):
+def fetch(url, timeout=20, retries=2, ua=UA):
     last = None
     for i in range(retries + 1):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, text/xml, */*"})
+            req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "application/rss+xml, application/atom+xml, text/xml, */*"})
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read()
         except Exception as e:  # noqa: BLE001 - we record and move on
