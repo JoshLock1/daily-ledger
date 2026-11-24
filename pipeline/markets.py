@@ -1,14 +1,14 @@
 """Market and macro data from free, keyless endpoints.
 
-- Stooq daily CSV (indices, FX, commodities, yields, crypto): https://stooq.com/q/d/l/?s=<sym>&i=d
+- Yahoo Finance chart JSON (unofficial, no key; may rate-limit cloud IPs): query1.finance.yahoo.com/v8/finance/chart/<sym>
 - FRED public CSV (long macro history): https://fred.stlouisfed.org/graph/fredgraph.csv?id=<series>
 
-Both are unofficial-ish public endpoints with no SLA; each series fails independently
-and is reported in data/health.json. Stooq symbols in config are unverified.
+Each market tries Yahoo first, then falls back to the FRED series named in config.\nEach series fails independently and is reported in data/health.json.
 """
 import csv
 import io
 import json
+from urllib.parse import quote
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -26,12 +26,23 @@ def parse_csv_series(raw, value_col):
     return out
 
 
-def stooq(sym, fetcher=fetch):
-    raw = fetcher(f"https://stooq.com/q/d/l/?s={sym}&i=d")
-    series = parse_csv_series(raw, "Close")
-    if len(series) < 2:
+BROWSER_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+
+
+def parse_yahoo(raw):
+    res = json.loads(raw)["chart"]["result"][0]
+    out = []
+    for ts, close in zip(res["timestamp"], res["indicators"]["quote"][0]["close"]):
+        if close is not None:
+            out.append([datetime.fromtimestamp(ts, timezone.utc).strftime("%Y-%m-%d"), round(float(close), 4)])
+    if len(out) < 2:
         raise ValueError("no data returned")
-    return series
+    return out
+
+
+def yahoo(sym, fetcher=None):
+    fetcher = fetcher or (lambda u: fetch(u, ua=BROWSER_UA, retries=1))
+    return parse_yahoo(fetcher(f"https://query1.finance.yahoo.com/v8/finance/chart/{quote(sym)}?range=2y&interval=1d"))
 
 
 def yoy(series, lag):
@@ -65,19 +76,30 @@ def snapshot(series):
             "hi_52w": max(v for _, v in year), "lo_52w": min(v for _, v in year)}
 
 
-def refresh(config, out_path, health_path, now=None, stooq_fetch=None, fred_fetch=None):
+def refresh(config, out_path, health_path, now=None, yahoo_fetch=None, fred_fetch=None):
     now = now or datetime.now(timezone.utc)
     result = {"updated": now.isoformat(), "markets": [], "macro": []}
     health = json.loads(Path(health_path).read_text()) if Path(health_path).exists() else {"sources": {}}
     for m in config["markets"]:
-        try:
-            s = stooq(m["stooq"], **({"fetcher": stooq_fetch} if stooq_fetch else {}))
+        s, via, errs = None, None, []
+        attempts = []
+        if m.get("yahoo"):
+            attempts.append(("Yahoo", lambda m=m: yahoo(m["yahoo"], **({"fetcher": yahoo_fetch} if yahoo_fetch else {}))))
+        if m.get("fred"):
+            attempts.append(("FRED", lambda m=m: fred(m["fred"], "level", **({"fetcher": fred_fetch} if fred_fetch else {}))))
+        for label, fn in attempts:
+            try:
+                s, via = fn(), label
+                break
+            except Exception as e:  # noqa: BLE001
+                errs.append(f"{label}: {type(e).__name__}: {e}")
+        key = f"Market {m['name']}"
+        if s:
             snap = snapshot(s)
-            # 'last' close is the latest *daily* close; date is shown so staleness is visible
-            result["markets"].append({**m, **snap, "spark": [v for _, v in s[-60:]], "history": s[-260:]})
-            health["sources"][f"Stooq {m['name']}"] = {"ok": True, "checked": now.isoformat()}
-        except Exception as e:  # noqa: BLE001
-            health["sources"][f"Stooq {m['name']}"] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:200], "checked": now.isoformat()}
+            result["markets"].append({**m, **snap, "via": via, "spark": [v for _, v in s[-60:]], "history": s[-260:]})
+            health["sources"][key] = {"ok": True, "via": via, "checked": now.isoformat()}
+        else:
+            health["sources"][key] = {"ok": False, "error": " | ".join(errs)[:200], "checked": now.isoformat()}
     for f in config["fred"]:
         try:
             s = fred(f["id"], f["transform"], **({"fetcher": fred_fetch} if fred_fetch else {}))
