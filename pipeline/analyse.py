@@ -101,13 +101,12 @@ def call_claude(prompt, api_key=None, max_tokens=16000, timeout=600):
                        "messages": [{"role": "user", "content": prompt}]}).encode()
     req = urllib.request.Request(API_URL, data=body, headers={
         "x-api-key": api_key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
-        try:
+    try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             data = json.loads(r.read())
     except urllib.error.HTTPError as e:
         raise RuntimeError(f"Claude API error {e.code}: {e.read().decode()[:500]}")
     return "".join(b.get("text", "") for b in data["content"] if b.get("type") == "text")
-
 
 def parse_json(text):
     text = text.strip()
