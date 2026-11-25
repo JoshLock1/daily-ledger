@@ -1,0 +1,639 @@
+{
+ "headline": "Nvidia's boss is reinstated and markets lurch up, then fade, while tariff threats, hawkish Fed talk and Gulf strikes keep investors on edge.",
+ "stories": [
+  {
+   "id": "nvidia-huang-return",
+   "category": "companies",
+   "headline": "Jensen Huang returns as Nvidia chief executive after Trump intervention; shares jump, then give back ground",
+   "label": "reported",
+   "what_happened": "Nvidia's board reinstated co-founder Jensen Huang as chief executive on Monday 23 November. He had been ousted after allegations of three affairs, including one with a suspected Chinese intelligence asset (the Guardian, df0b7b27e673). The BBC reported that Nvidia's market value rose by almost $1tn on the news and that the tech-heavy Nasdaq rose 6.5% (812d2a85a0ba). The Guardian put the share-price gain at about a third (52127ca3d657 is an opinion piece; db8fd0076e40 is the news report). The two outlets give different framings of the size of the move, so treat the exact figure with caution.\n\nPresident Trump said he had 'convinced' Nvidia's board to reinstate Huang and faced backlash for it (BBC, 9c30b79cef44). The Financial Times headline says Trump helped 'orchestrate' the return (609750e23086). The Guardian reported that Trump made up to $15m on his own Nvidia holdings after the jump (df0b7b27e673). Singapore's prime minister, Lawrence Wong, said Singapore investigated the woman named in the reports but released her because there was 'no basis for further prosecution' (c8bd2005eeae). That is an official statement about Singapore's case only. It does not settle any US inquiry.\n\nThe rally did not last. The BBC reported Nvidia shares fell about 7% on Tuesday as lawmakers demanded answers about Trump's involvement, and the US attorney general avoided questions on an Nvidia investigation (a587dbad2c20). MarketWatch said Huang's return does not resolve regulatory issues or an investigation into his relationship with a former Megaspeed executive (8479b602e358). Huang told staff he still does not believe in CEO succession planning (894a287e68a0, FT headline only). Market data show the Nasdaq 100 down 1.99% at Tuesday's close.",
+   "why_happened": "Reported explanation: investors had priced in the risk of losing a founder seen as central to Nvidia's AI strategy, so his return removed that uncertainty. Several outlets say the White House and Silicon Valley figures pushed for it (db8fd0076e40, 0602ae489587). Which factor was decisive is not established. The CNBC opinion piece (07df62b1c46b) says Treasury Secretary Bessent first took a harder line on Nvidia and then reversed; that is the author's view, not confirmed fact. The later fall suggests investors are weighing the unresolved legal and political questions.",
+   "why_matters": "Nvidia is the world's most valuable chip company and a bellwether for the AI investment boom, so a swing of this size moves whole stock indices. A single stock moving the Nasdaq by several percent also shows how concentrated US equity returns have become. The episode raises governance questions: a US president publicly claiming credit for a private company's board decision, and lawmakers asking about his personal Nvidia holdings.",
+   "what_next": "Watch for congressional demands for answers, any formal US investigation, Nvidia's board statements and further export-policy decisions on chips to China. The allegations about Huang remain allegations in the evidence supplied; no outcome of any inquiry is reported.",
+   "who_affected": "Nvidia shareholders and index funds, AI-linked suppliers, US-China technology policy, and anyone holding US tech through pensions or ETFs.",
+   "key_takeaway": "A one-man story moved roughly $1tn of market value in a day and then partly reversed. The market is pricing personality and politics as well as earnings.",
+   "vs_expectations": null,
+   "importance": 7,
+   "importance_reason": "Very large single-day value swing in the market's largest AI stock, with political and regulatory implications, though the underlying business facts are unchanged.",
+   "glossary": [
+    {
+     "term": "Market capitalisation",
+     "meaning": "Share price multiplied by the number of shares; the market's valuation of a whole company."
+    },
+    {
+     "term": "Key-person risk",
+     "meaning": "The risk that a business suffers if one individual, such as a founder, leaves."
+    }
+   ],
+   "connections": [
+    "ai-trade-wobble",
+    "trump-tariffs"
+   ],
+   "sources": [
+    {
+     "id": "812d2a85a0ba",
+     "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+     "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-23T21:23:42+00:00"
+    },
+    {
+     "id": "db8fd0076e40",
+     "title": "'I'm going to be a better CEO': Jensen Huang rejoins Nvidia after Trump intervention \u2013 video",
+     "url": "https://www.theguardian.com/technology/video/2026/nov/24/jensen-huang-rejoins-nvidia-after-trump-intervention-video",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T07:54:45+00:00"
+    },
+    {
+     "id": "9c30b79cef44",
+     "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-24T10:53:37+00:00"
+    },
+    {
+     "id": "df0b7b27e673",
+     "title": "Trump made up to $15m on Nvidia stock after Huang\u2019s return",
+     "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T15:23:20+00:00"
+    },
+    {
+     "id": "a587dbad2c20",
+     "title": "US attorney general dodges questions about Nvidia investigation",
+     "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-24T21:19:42+00:00"
+    },
+    {
+     "id": "8479b602e358",
+     "title": "Nvidia\u2019s stock drops as these major questions loom over Jensen Huang\u2019s return",
+     "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+     "source": "MarketWatch Top Stories",
+     "tier": "news",
+     "published": "2026-11-24T21:14:00+00:00"
+    },
+    {
+     "id": "609750e23086",
+     "title": "How Trump helped orchestrate Huang\u2019s return to Nvidia",
+     "url": "https://www.ft.com/content/98ec6911-bb0c-42c1-8c5e-5eebf40dc918?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T14:00:02+00:00"
+    },
+    {
+     "id": "c8bd2005eeae",
+     "title": "Singapore investigated Alice Huang but found no basis for prosecution, prime minister says \u2013 video",
+     "url": "https://www.theguardian.com/technology/video/2026/nov/24/singapore-investigated-alice-huang-but-found-no-basis-for-prosecution-prime-minister-says-video",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T04:03:57+00:00"
+    },
+    {
+     "id": "894a287e68a0",
+     "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
+     "url": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T20:18:29+00:00"
+    },
+    {
+     "id": "07df62b1c46b",
+     "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China",
+     "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+     "source": "CNBC Economy",
+     "tier": "news",
+     "published": "2026-11-23T21:00:59+00:00"
+    }
+   ]
+  },
+  {
+   "id": "ai-trade-wobble",
+   "category": "financial-markets",
+   "headline": "AI-linked shares struggle to hold gains: Anthropic slips below IPO price, Micron and HPE fall",
+   "label": "reported",
+   "what_happened": "Anthropic's shares closed below their $83 IPO price for the first time, less than a week after listing on the Nasdaq (MarketWatch, 48cdb2269afe; FT headline, 1a3f0c993b77, which says investor relief over Huang's reinstatement had subsided). Micron fell after a BNP Paribas analyst warned that the risk of 'an oversupply scenario' in memory chips is mounting and could threaten its pricing power (af91f039806c). Hewlett Packard Enterprise raised its forecast on Monday on strong AI demand and posted what MarketWatch calls its strongest growth ever, yet its stock fell (e9db46d704a6).\n\nCommentary adds to the caution. The BBC's Faisal Islam argues that fears about the AI boom existed before Huang's exit and his return 'won't fix' them (f5b8a2db69f0, opinion). A MarketWatch column argues equities remain 'hardly cheap' despite declines over recent weeks (8ae1fd21b525, opinion). The Economist's headline says copper shows 'how AI is messing with markets' as a proxy bet on a technological revolution (0fdc56397509; headline only).\n\nMarket data fit the mood. The Nasdaq 100 is down 10.45% over a month, and the S&P 500 is down 5.07% over a month, though the S&P 500 jumped 4.73% on Monday's rally.",
+   "why_happened": "Possible drivers, none confirmed as the cause: sceptical investors treat strong results as already priced in (HPE); fear of too much chip capacity (Micron analyst note); and a general reassessment of high valuations. A new listing trading below its offer price is typically read as weak demand at that price.",
+   "why_matters": "A large share of recent equity gains and corporate investment plans rests on AI. If expectations reset, it affects pension funds, company capital spending, and the supply chain from chips to power and metals.",
+   "what_next": "Watch the next earnings from chip and server makers, how Anthropic trades through its first weeks, and whether analysts echo the oversupply warning.",
+   "who_affected": "Technology investors, memory-chip and server makers, AI start-ups planning listings, commodity markets such as copper.",
+   "key_takeaway": "Good news is no longer enough to lift AI-related shares; investors are asking whether the spending can earn a return.",
+   "vs_expectations": null,
+   "importance": 6,
+   "importance_reason": "Broad market sentiment signal across several companies, but evidence is mostly single-source commentary and company-level moves.",
+   "glossary": [
+    {
+     "term": "IPO price",
+     "meaning": "The price at which shares are first sold to investors when a company lists on a stock exchange."
+    },
+    {
+     "term": "Oversupply",
+     "meaning": "When producers make more of a product than buyers want, which tends to push prices down."
+    }
+   ],
+   "connections": [
+    "nvidia-huang-return",
+    "fed-williams-rates"
+   ],
+   "sources": [
+    {
+     "id": "48cdb2269afe",
+     "title": "Anthropic\u2019s stock just broke below its IPO price for the first time",
+     "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+     "source": "MarketWatch Top Stories",
+     "tier": "news",
+     "published": "2026-11-24T21:46:00+00:00"
+    },
+    {
+     "id": "1a3f0c993b77",
+     "title": "Anthropic closes below IPO price as tech rally fades",
+     "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T21:11:37+00:00"
+    },
+    {
+     "id": "af91f039806c",
+     "title": "Micron\u2019s stock falls as an analyst warns about a future supply glut",
+     "url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+     "source": "MarketWatch Top Stories",
+     "tier": "news",
+     "published": "2026-11-24T21:22:00+00:00"
+    },
+    {
+     "id": "e9db46d704a6",
+     "title": "HPE just posted its strongest growth ever \u2014 but its stock is sinking",
+     "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+     "source": "MarketWatch Top Stories",
+     "tier": "news",
+     "published": "2026-11-24T21:45:00+00:00"
+    },
+    {
+     "id": "8ae1fd21b525",
+     "title": "The stock market is hardly cheap, even taking recent declines into account",
+     "url": "https://www.marketwatch.com/story/the-stock-market-is-hardly-cheap-even-taking-recent-declines-into-account-fe0a7989?mod=mw_rss_topstories",
+     "source": "MarketWatch Top Stories",
+     "tier": "news",
+     "published": "2026-11-24T21:22:00+00:00"
+    },
+    {
+     "id": "0fdc56397509",
+     "title": "Copper shows how AI is messing with markets",
+     "url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
+     "source": "The Economist Finance (headlines only)",
+     "tier": "analysis",
+     "published": "2026-11-24T18:12:38+00:00"
+    },
+    {
+     "id": "f5b8a2db69f0",
+     "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+     "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "tier": "news",
+     "published": "2026-11-24T18:21:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": "fed-williams-rates",
+   "category": "central-banks",
+   "headline": "Fed's Williams says higher rates likely 'over time' as US inflation stays above 4%",
+   "label": "reported",
+   "what_happened": "CNBC reported that New York Fed president John Williams indicated higher interest rates are likely 'over time' to address inflation, and expressed confidence that inflation will get closer to the Fed's 2% target in 2027 (8642b27e9894). This is a single-outlet report and the evidence includes only the headline and summary, not his full remarks.\n\nLatest supplied macro data show US consumer price inflation at 4.08% year on year, the Fed funds rate at 3.88%, unemployment at 4.1% and the 10-year Treasury yield at 4.92% (23 November close). The Fed also published minutes of its Board's discount rate meetings on 19 and 28 October (a22a480c189f); the supplied item carries no detail on the contents.\n\nSeparately, the Conference Board's consumer confidence index jumped to 103.3, with inflation worries persisting (CNBC, a94fd2384b2f).",
+   "why_happened": "Inflation at roughly twice the target and policy rates below the inflation rate point to pressure to tighten. The evidence does not say what is driving inflation. Oil is down about 22% over a month in the supplied data, but the FT notes pressure remains in diesel and jet fuel (9695a7135df7).",
+   "why_matters": "Higher policy rates raise borrowing costs across the economy and lower the present value of distant profits, which weighs on richly valued growth shares. Fed speakers also steer the dollar and Treasury yields, which set global borrowing costs.",
+   "what_next": "Watch further Fed speeches, the next inflation and jobs releases, and whether markets raise their expectation of rate rises. This is a forecast of direction, not a decision.",
+   "who_affected": "Mortgage and business borrowers, savers, Treasury investors, emerging markets with dollar debt, tech-sector valuations.",
+   "key_takeaway": "The Fed's policy rate is below inflation; a central banker is now signalling the next move is more likely up than down.",
+   "vs_expectations": null,
+   "importance": 6,
+   "importance_reason": "Signals direction of the world's most important policy rate, but no decision was taken and detail is thin.",
+   "glossary": [
+    {
+     "term": "Discount rate",
+     "meaning": "The interest rate at which the Fed lends to commercial banks; it is distinct from the Fed funds rate and from the 'discount rate' used to value future cash flows."
+    },
+    {
+     "term": "Federal funds rate",
+     "meaning": "The Fed's main policy interest rate, at which banks lend reserves to each other overnight."
+    }
+   ],
+   "connections": [
+    "ai-trade-wobble",
+    "trump-tariffs",
+    "gulf-energy-risks"
+   ],
+   "sources": [
+    {
+     "id": "8642b27e9894",
+     "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+     "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+     "source": "CNBC Markets",
+     "tier": "news",
+     "published": "2026-11-24T13:33:26+00:00"
+    },
+    {
+     "id": "a22a480c189f",
+     "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+     "source": "Federal Reserve Press Releases",
+     "tier": "primary",
+     "published": "2026-11-24T19:00:00+00:00"
+    },
+    {
+     "id": "a94fd2384b2f",
+     "title": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
+     "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+     "source": "CNBC Economy",
+     "tier": "news",
+     "published": "2026-11-24T18:34:43+00:00"
+    }
+   ]
+  },
+  {
+   "id": "trump-tariffs",
+   "category": "global-economy",
+   "headline": "Trump reported to be readying fresh tariffs on China, the EU, Japan and South Korea",
+   "label": "reported",
+   "what_happened": "The Financial Times reported, in a headline and summary only, that Trump is readying a raft of new tariffs on major economies. China, the EU, Japan and South Korea are expected to be hit as the president 'doubles down on trade strategy' (1ebf874f7500). No rates, start dates or product lists appear in the evidence, and no other supplied outlet corroborates this. Treat it as a single-source report of an expected measure, not a confirmed policy.\n\nThe Economist has a piece asking whether America's supply chains are more vulnerable than China's (099bb4d72302; headline only), which shows the debate about trade dependence is live.",
+   "why_happened": "Not stated in the evidence beyond the FT's description of a doubling down on trade strategy.",
+   "why_matters": "Tariffs are taxes on imports. They typically raise prices for consumers and firms in the importing country, can provoke retaliation, and complicate the Fed's job when inflation is already 4.08%. Targets are major US trading partners, and Japan's Nikkei is down 12.67% over a month at its 20 November close (that fall is not attributed to tariffs in the evidence).",
+   "what_next": "Watch for a formal announcement, rates and dates, and responses from Beijing, Brussels, Tokyo and Seoul.",
+   "who_affected": "Exporters in China, the EU, Japan and South Korea; US importers and consumers; carmakers and electronics supply chains; currency markets.",
+   "key_takeaway": "A reported but unconfirmed tariff round would push on the inflation problem the Fed is already worried about.",
+   "vs_expectations": null,
+   "importance": 6,
+   "importance_reason": "Potentially wide consequences, but single-source and no detail yet.",
+   "glossary": [
+    {
+     "term": "Tariff",
+     "meaning": "A tax charged on imported goods, paid by the importer and usually passed on at least partly to buyers."
+    }
+   ],
+   "connections": [
+    "fed-williams-rates",
+    "europe-fiscal-france"
+   ],
+   "sources": [
+    {
+     "id": "1ebf874f7500",
+     "title": "Trump readies raft of new tariffs on major economies",
+     "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T16:30:35+00:00"
+    },
+    {
+     "id": "099bb4d72302",
+     "title": "Are America\u2019s supply chains really more vulnerable than China\u2019s?",
+     "url": "https://www.economist.com/finance-and-economics/2026/11/24/are-americas-supply-chains-really-more-vulnerable-than-chinas",
+     "source": "The Economist Finance (headlines only)",
+     "tier": "analysis",
+     "published": "2026-11-24T20:34:14+00:00"
+    }
+   ]
+  },
+  {
+   "id": "gulf-energy-risks",
+   "category": "geopolitics",
+   "headline": "Houthi strike on Riyadh, Iraqi move on Kurdish oilfields and a split fuel market keep energy risk alive",
+   "label": "reported",
+   "what_happened": "The FT reported that a Houthi attack on the PIF Tower in Riyadh, headquarters of Saudi Arabia's sovereign wealth fund, injured 11. It came as the kingdom unveiled its first budget since conflict with the Iran-backed rebels restarted (5b235bc86e40; headline and summary only). The FT also reported that Iraq's government will take control of Kurdish-held oilfields as the prime minister works to assert power over the semi-autonomous Kurdish region and Iran-backed Shia militias (b34835691a3f).\n\nAn FT analysis says the energy market is 'both tight and loose': inflationary pressure remains in diesel and jet fuel despite a glut of gasoline (9695a7135df7).\n\nThe most recent supplied oil prices are stale (17 November): Brent $92.94, down 21.78% over a month and far below its 52-week high of $138.21; WTI $89.53. They do not reflect these events.",
+   "why_happened": "Evidence gives only the events, not their causes. The Gulf items are linked by regional rivalry involving Iran-backed groups, according to the FT's own descriptions.",
+   "why_matters": "The Gulf supplies a large share of the world's oil, so attacks on Saudi targets and shifts in Iraqi control of fields can move prices and inflation expectations. A split market with tight diesel and jet fuel matters for freight and airline costs even if petrol is cheap.",
+   "what_next": "Watch Brent and diesel prices when fresh quotes are available, any attacks on energy infrastructure, and the Iraqi-Kurdish handover of fields.",
+   "who_affected": "Oil importers, airlines and haulage firms, Saudi and Iraqi budgets, central banks facing inflation.",
+   "key_takeaway": "Oil is well below its peak but fuel-product tightness and Gulf violence mean energy remains an inflation risk.",
+   "vs_expectations": null,
+   "importance": 6,
+   "importance_reason": "Potentially broad energy and inflation effects, though no confirmed supply disruption is reported.",
+   "glossary": [
+    {
+     "term": "Sovereign wealth fund",
+     "meaning": "A state-owned investment fund, such as Saudi Arabia's PIF."
+    },
+    {
+     "term": "Brent",
+     "meaning": "The international benchmark price for crude oil."
+    }
+   ],
+   "connections": [
+    "fed-williams-rates"
+   ],
+   "sources": [
+    {
+     "id": "5b235bc86e40",
+     "title": "Houthi attack on Riyadh\u2019s PIF Tower injures 11",
+     "url": "https://www.ft.com/content/ecdf59b6-c78b-4703-bc26-8d085d7b9d24?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T20:39:50+00:00"
+    },
+    {
+     "id": "b34835691a3f",
+     "title": "Iraqi government to take control of Kurdish-held oilfields",
+     "url": "https://www.ft.com/content/5b03bc34-79a5-4c90-8b92-17b27b19098e?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T15:47:33+00:00"
+    },
+    {
+     "id": "9695a7135df7",
+     "title": "Dealing with an energy market both tight and loose",
+     "url": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T12:30:04+00:00"
+    }
+   ]
+  },
+  {
+   "id": "europe-fiscal-france",
+   "category": "global-economy",
+   "headline": "EU presses France and Belgium on public finances as France's recession risk is debated",
+   "label": "reported",
+   "what_happened": "The European Commission warned France and Belgium to put their public finances on a 'sustainable path' and warned Germany it could face additional monitoring next year owing to excessive public spending (FT, dfa1b1eb65d4; headline and summary only).\n\nCNBC reported that Bank of France Governor Emmanuel Moulin still expects growth, pointing to resilience in defence, aerospace and electricity, in a piece on why France is at risk of recession (8aad6a2decd0). The supplied summary gives no growth numbers.",
+   "why_happened": "Evidence does not give the causes. The Commission's concern is deficits and debt; France's recession risk is attributed to unspecified weakness the governor argues is offset by certain sectors.",
+   "why_matters": "France is the euro area's second-largest economy. Fiscal pressure from Brussels can force spending cuts or tax rises just as growth is fragile, and the ECB has to weigh this. Euro/dollar is near its 52-week low (1.0981 on 20 November).",
+   "what_next": "Watch the Commission's formal steps, French budget decisions and the next growth data.",
+   "who_affected": "French and Belgian households and businesses, euro-area bond investors, the ECB.",
+   "key_takeaway": "Tight budgets and weak growth is a difficult combination for Europe's big economies.",
+   "vs_expectations": null,
+   "importance": 5,
+   "importance_reason": "Regionally important, but evidence is thin and the main outcomes lie ahead.",
+   "glossary": [
+    {
+     "term": "Technical recession",
+     "meaning": "Commonly two consecutive quarters of falling output."
+    },
+    {
+     "term": "Excessive deficit procedure",
+     "meaning": "The EU process for monitoring and pressing governments that run deficits above agreed limits."
+    }
+   ],
+   "connections": [
+    "trump-tariffs"
+   ],
+   "sources": [
+    {
+     "id": "dfa1b1eb65d4",
+     "title": "EU warns France and Belgium to put public finances on \u2018sustainable path\u2019",
+     "url": "https://www.ft.com/content/20e28c3f-31b8-40d2-bbb7-ee3f92ede6ac?syn-25a6b1a6=1",
+     "source": "Financial Times (headlines only)",
+     "tier": "news",
+     "published": "2026-11-24T18:02:04+00:00"
+    },
+    {
+     "id": "8aad6a2decd0",
+     "title": "Why France is at risk of recession \u2014 and what could keep it out of one",
+     "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+     "source": "CNBC Economy",
+     "tier": "news",
+     "published": "2026-11-24T11:15:30+00:00"
+    }
+   ]
+  },
+  {
+   "id": "compass-london-exit",
+   "category": "companies",
+   "headline": "Compass Group plans to move its main listing from London to New York",
+   "label": "confirmed",
+   "what_happened": "Compass Group, the world's largest catering group, confirmed plans to move its primary stock-market listing to the US, saying it had become 'a predominantly North American business' and that New York offers 'the world's largest and deepest pool of capital' (Guardian, 7343f381c0f0). It has begun consulting shareholders, about two-fifths of whom are in the US. Guardian columnist Nils Pratley says the switch is planned for 2028, that Compass is the 18th largest FTSE 100 company and that its logic is 'flimsy' (5848cd8f3262; opinion).",
+   "why_happened": "Stated reason from the company: its business is mainly North American and US capital markets are deeper. The columnist disputes the logic; that is opinion.",
+   "why_matters": "Each large departure shrinks the London market, reducing liquidity and the pool of listed UK firms, and raises questions about what the government is doing to keep listings.",
+   "what_next": "Shareholder consultation, then a vote; the columnist calls for government action to discourage further delistings.",
+   "who_affected": "FTSE 100 investors, the London Stock Exchange, UK pension funds, Compass shareholders.",
+   "key_takeaway": "London's listing problem continues, with a well-known FTSE 100 name heading to New York.",
+   "vs_expectations": null,
+   "importance": 5,
+   "importance_reason": "Meaningful for UK capital markets but a single company and a slow process.",
+   "glossary": [
+    {
+     "term": "Primary listing",
+     "meaning": "The main stock exchange where a company's shares are traded and whose rules it follows."
+    },
+    {
+     "term": "FTSE 100",
+     "meaning": "Index of the 100 largest companies listed in London."
+    }
+   ],
+   "connections": [],
+   "sources": [
+    {
+     "id": "7343f381c0f0",
+     "title": "NHS caterer Compass confirms plan to ditch main London listing for New York",
+     "url": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T13:30:22+00:00"
+    },
+    {
+     "id": "5848cd8f3262",
+     "title": "Compass\u2019s logic for US listing is flimsy but UK ministers need to wake up to Footsie flight risk | Nils Pratley",
+     "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/24/compass-logic-new-york-listing-flimsy",
+     "source": "The Guardian Business",
+     "tier": "news",
+     "published": "2026-11-24T17:15:19+00:00"
+    }
+   ]
+  }
+ ],
+ "bigger_picture": [
+  {
+   "title": "Valuations, rates and the AI trade",
+   "story_ids": [
+    "nvidia-huang-return",
+    "ai-trade-wobble",
+    "fed-williams-rates"
+   ],
+   "mechanism": "Technology shares are valued on profits far in the future. When central banks signal higher policy rates and Treasury yields sit near 4.9%, those future profits are worth less today, so investors demand stronger evidence of earnings. In that setting even good news (HPE's forecast upgrade, Huang's return) is met with selling once the first relief passes. This is an interpretation: none of the supplied items states that rate expectations caused today's falls.",
+   "caveats": "Several of the market moves have other plausible causes (company-specific news, analyst notes). Market data are daily closes on mixed dates."
+  },
+  {
+   "title": "Trade, energy and inflation",
+   "story_ids": [
+    "trump-tariffs",
+    "gulf-energy-risks",
+    "fed-williams-rates"
+   ],
+   "mechanism": "Tariffs raise import prices directly. Fuel-product tightness raises transport and production costs. Both add to inflation that is already above 4%, making it harder for the Fed to hold rates down and pushing the dollar and yields higher. The dollar index is at its 52-week high in the supplied data, while sterling and the euro sit near 52-week lows.",
+   "caveats": "The tariff report is single-source and unspecified; oil prices supplied are from 17 November and pre-date the Gulf events."
+  }
+ ],
+ "markets_telling_us": [
+  {
+   "market": "S&P 500 and Nasdaq 100",
+   "what_happened": "The S&P 500 closed 23 November at 7,237.17, up 4.73% on the day, but is down 2.42% over five days and 5.07% over a month, and below its 52-week high of 7,818.93. The Nasdaq 100 closed 24 November at 26,214.17, down 1.99% on the day, down 10.45% over a month and well below its 52-week high of 31,224.69.",
+   "significance": "A large one-day jump was followed by a retreat, with the tech-heavy index still in a clear month-long decline.",
+   "possible_drivers": [
+    {
+     "driver": "Relief at Huang's reinstatement on Monday (BBC reports the rally)",
+     "status": "confirmed"
+    },
+    {
+     "driver": "Fading of that relief amid questions over Trump's role and investigations",
+     "status": "possible"
+    },
+    {
+     "driver": "Valuation worries and AI oversupply fears (Micron note, Anthropic below IPO price)",
+     "status": "possible"
+    },
+    {
+     "driver": "Higher expected US rates after Williams' comments",
+     "status": "possible"
+    }
+   ],
+   "what_it_suggests": "Investors are nervous and quick to reverse rallies; confidence in the AI trade is fragile.",
+   "wider_economy": "Falling equities reduce household wealth and can tighten financing for tech firms.",
+   "watch_next": "Whether the Nasdaq 100 holds above its 52-week low of 22,953."
+  },
+  {
+   "market": "US 10-year Treasury yield",
+   "what_happened": "The yield was 4.92% on 23 November, down about 3.9% in relative terms over five days, and below its 52-week high of 5.31%.",
+   "significance": "It remains high relative to the 52-week low of 3.97%, and sets the cost of long-term borrowing.",
+   "possible_drivers": [
+    {
+     "driver": "Shifting rate expectations after Fed speeches",
+     "status": "possible"
+    },
+    {
+     "driver": "Demand for safe assets during the equity sell-off",
+     "status": "possible"
+    }
+   ],
+   "what_it_suggests": "Bond investors expect rates to stay high but are not extending the surge to the year's peak.",
+   "wider_economy": "Mortgage and corporate borrowing costs stay elevated. The 10-year minus 2-year gap is +0.28 points, a positive yield curve.",
+   "watch_next": "Reaction to Fed commentary and inflation data."
+  },
+  {
+   "market": "Currencies",
+   "what_happened": "On 20 November the US dollar index was 123.60, at its 52-week high. GBP/USD was 1.3104 (52-week low 1.3077) and EUR/USD 1.0981 (52-week low 1.0968).",
+   "significance": "A strong dollar and sterling and the euro near their year lows.",
+   "possible_drivers": [
+    {
+     "driver": "Expectations of higher US rates",
+     "status": "possible"
+    },
+    {
+     "driver": "Tariff concerns and European fiscal weakness",
+     "status": "possible"
+    }
+   ],
+   "what_it_suggests": "Investors favour the dollar, either for yield or for safety.",
+   "wider_economy": "A strong dollar raises import prices in the UK and euro area and burdens dollar borrowers.",
+   "watch_next": "Whether sterling breaks below 1.3077."
+  },
+  {
+   "market": "Oil, Nikkei and Bitcoin",
+   "what_happened": "Brent was $92.94 and WTI $89.53 on 17 November (stale), down about 22% and 19% over a month. The Nikkei closed at 56,436.65 on 20 November, down 5.06% that day and 12.67% over a month. Bitcoin was $59,515 on 24 November, down 2.91% on the day and 22.64% over a month, close to its 52-week low of $58,586.",
+   "significance": "Risk assets (Japan stocks, crypto) are under heavy pressure; oil has fallen from its peak. The oil and Nikkei data are old, so they may not reflect the latest moves.",
+   "possible_drivers": [
+    {
+     "driver": "Broad risk-off mood and higher rate expectations",
+     "status": "possible"
+    },
+    {
+     "driver": "Tariff expectations hitting Japan",
+     "status": "possible"
+    }
+   ],
+   "what_it_suggests": "Appetite for risk is weak across asset classes.",
+   "wider_economy": "Lower oil eases inflation; weak risk assets signal tighter financial conditions.",
+   "watch_next": "Bitcoin around its 52-week low; fresh oil quotes after the Gulf attack."
+  }
+ ],
+ "market_relationships": "Today's prices fit a loosely consistent story, though every link is interpretation. US inflation above 4%, Fed talk of higher rates and a dollar index at a 52-week high are the sort of conditions that squeeze long-dated, richly valued assets: tech shares and Bitcoin are both well down on the month. A stronger dollar tends to push sterling and the euro towards lows, as seen here, and makes imports dearer in those economies. Oil's 22% monthly fall is a counterweight for inflation, but the FT's point that diesel and jet fuel remain tight means falling crude does not translate evenly into consumer prices. The odd feature is the 10-year yield falling over five days while the dollar rises; that can happen when investors seek safety, but the supplied data cannot tell us which. Caution: data dates differ (oil 17 Nov, currencies and the Nikkei 20 Nov, equities and yields 23-24 Nov), so cross-market comparisons are imprecise. The gilt yield figure supplied is dated 1 October and looks unreliable, so it is not used.",
+ "reports": [
+  {
+   "title": "Conference Board consumer confidence index, November",
+   "examines": "US households' views of current conditions and the outlook, via a monthly survey.",
+   "producer": "The Conference Board, a US business research group, as reported by CNBC.",
+   "credibility": "A widely followed survey, but based on sentiment, which can diverge from spending. Only a news summary is supplied.",
+   "key_findings": "The headline index jumped to 103.3, with improvement across the board, after Democrats' midterm victories, though inflation worries persist.",
+   "statistics_mean": "An index reading above 100 is not a threshold with fixed meaning; the change from the previous reading matters more. The previous value is not in the evidence.",
+   "implications": "Higher confidence could support consumer spending, which would keep demand firm while inflation is above 4%. That would reinforce the case for higher rates. This is interpretation.",
+   "limitations": "Reasons given for the jump (election results) are the outlet's framing; no previous reading or forecast is supplied.",
+   "monitor": "Retail spending data and whether confidence holds as inflation persists.",
+   "sources": [
+    {
+     "id": "a94fd2384b2f",
+     "title": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
+     "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+     "source": "CNBC Economy",
+     "tier": "news",
+     "published": "2026-11-24T18:34:43+00:00"
+    }
+   ]
+  }
+ ],
+ "historical": [
+  {
+   "title": "Tech valuation peaks and rising rates",
+   "story_ids": [
+    "ai-trade-wobble",
+    "fed-williams-rates",
+    "nvidia-huang-return"
+   ],
+   "macro_series": [
+    "FEDFUNDS",
+    "CPIAUCSL"
+   ],
+   "what_happened_then": "The Nasdaq peaked in March 2000 after a surge in internet and telecoms shares. The Fed had been raising rates during 1999 and 2000. Technology shares subsequently fell by well over half over the next two years.",
+   "conditions_then": "Heavy investment in a new technology, very high valuations, rising policy rates and a belief in a transformative future.",
+   "similarities": "Heavy investment in a transformational technology, concentrated market leadership, a central bank considering higher rates, and questions over whether spending will earn returns.",
+   "differences": "Today's leaders (such as Nvidia) report large actual profits; many 2000 firms did not. Inflation today (4.08%) is higher than in 2000, and the policy rate is below inflation.",
+   "lessons": "Valuations can stay stretched for a long time before shifting, and rate expectations are one of several triggers.",
+   "not_a_prediction": "History is not a prediction. This comparison is illustrative and does not imply the AI boom will end as the dot-com boom did.",
+   "basis": "background"
+  },
+  {
+   "title": "Tariff rounds and retaliation, 2018-19",
+   "story_ids": [
+    "trump-tariffs"
+   ],
+   "macro_series": [],
+   "what_happened_then": "The US imposed successive tariffs on Chinese and other imports in 2018 and 2019 and trading partners retaliated, which unsettled markets and disrupted supply chains.",
+   "conditions_then": "Low inflation and modest policy rates, unlike today.",
+   "similarities": "Tariffs aimed at several large economies, uncertainty over scope and timing.",
+   "differences": "Inflation is now above 4%, so tariffs' price effects are more awkward for the Fed.",
+   "lessons": "Announcements can precede or differ from final measures; markets tend to react to uncertainty.",
+   "not_a_prediction": "History is not a prediction; the details of any new tariffs are not yet known.",
+   "basis": "background"
+  }
+ ],
+ "calendar": [],
+ "concept": {
+  "name": "Real interest rate",
+  "level": "intermediate",
+  "meaning": "The interest rate after subtracting inflation. It measures how much extra purchasing power a lender actually earns, or a borrower pays.",
+  "how_it_works": "Approximately: real rate = nominal rate minus inflation. If a savings account pays 4% and prices rise 3%, the real return is about 1%. Economists distinguish ex-post real rates (using inflation that has happened) from ex-ante rates (using expected inflation). Central banks care about the ex-ante real policy rate because it shows whether policy is restraining or stimulating demand. Real rates are also the discount rate used to value long-term assets such as growth shares.",
+  "why_matters": "A negative real policy rate means borrowing is effectively cheap even if the headline rate looks high, which can keep demand and inflation strong. Rising real yields tend to weigh on long-duration assets.",
+  "example": "Using the supplied data as a crude, backward-looking proxy: Fed funds 3.88% minus CPI 4.08% gives about -0.2 percentage points. The 10-year Treasury yield of 4.92% minus the same inflation figure gives about +0.8 points. Expected future inflation, not last month's, is what matters for the real rate, so this is illustrative only.",
+  "relates_to_today": "Williams' signal that rates are likely to rise 'over time' (8642b27e9894) is in effect a signal that the real policy rate needs to rise from around zero, which is relevant to how investors value AI shares."
+ },
+ "weekly_outlook": null,
+ "model": "claude-sonnet-5-5",
+ "date": "2026-11-25",
+ "generated": "2026-11-25T07:04:45.437590+00:00",
+ "evidence_items": 113,
+ "source_health": {
+  "BBC Business": true,
+  "The Guardian Business": true,
+  "CNBC Economy": true,
+  "CNBC Markets": true,
+  "MarketWatch Top Stories": true,
+  "The Conversation Economy": true,
+  "Financial Times (headlines only)": true,
+  "The Economist Finance (headlines only)": true,
+  "Federal Reserve Press Releases": true,
+  "Federal Reserve Speeches": true,
+  "Bank of England News": true,
+  "ECB Press": true,
+  "BLS Latest Numbers": true
+ }
+}
