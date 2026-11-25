@@ -1046,17 +1046,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-   "summary": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
-   "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-   "source": "CNBC Economy",
-   "tier": "news",
-   "published": "2026-11-11T12:27:47+00:00",
-   "canon": "https://cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-   "id": "8ac687b40bc9",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Kalshi daily volume of \u2018perps\u2019 trading begins to top its prediction markets",
    "summary": "The product, the first one beyond event contracts, was introduced in May.",
    "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
@@ -3134,7 +3123,260 @@
    "canon": "https://ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
    "id": "07cce1e3a84d",
    "first_seen": "2026-11-25T11:04:44.718154+00:00"
+  },
+  {
+   "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+   "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+   "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-25T10:03:12+00:00",
+   "canon": "https://bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+   "id": "7fff96f9ef2d",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "'I'm not looking forward to energy price increase,' says student",
+   "summary": "Student Isaac told the BBC he and his flatmates have no choice but to keep the heating on 'constantly' due to poor insulation.",
+   "url": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-25T13:24:29+00:00",
+   "canon": "https://bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
+   "id": "a6fb0a61e1f1",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "My husband lives off sandwiches due to energy costs",
+   "summary": "A woman already in energy debt says anxiety is \"through the roof\" over further increases.",
+   "url": "https://www.bbc.co.uk/news/videos/c539gz4nmjm9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-25T13:14:52+00:00",
+   "canon": "https://bbc.co.uk/news/videos/c539gz4nmjm9o?at_medium=RSS&at_campaign=rss",
+   "id": "0099dfeb258c",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Salon owner's chore woes prompt idea for new app",
+   "summary": "A salon owner sets up a skill-swapping app after she and clients were \"moaning\" about chores and admin.",
+   "url": "https://www.bbc.co.uk/news/articles/c6jren0308xzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-25T13:04:13+00:00",
+   "canon": "https://bbc.co.uk/news/articles/c6jren0308xzo?at_medium=RSS&at_campaign=rss",
+   "id": "5ac39bb47a25",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "'I use a bowl to wash myself and I'm \u00a3400 in debt - energy price rise scares me'",
+   "summary": "A woman already in energy debt says her anxiety is \"through the roof\" over further cost increases.",
+   "url": "https://www.bbc.co.uk/news/articles/cmly7q7zk77po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-25T12:05:29+00:00",
+   "canon": "https://bbc.co.uk/news/articles/cmly7q7zk77po?at_medium=RSS&at_campaign=rss",
+   "id": "f17db303cbaa",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Amazon to start selling cars in the UK next year",
+   "summary": "US retail giant links up with Hyundai in attempt to crack \u00a3200bn British market Business live \u2013 latest updates Amazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market. The Amazon Autos service will be launched in \u201cearly 2027\u201d, starting with cars from Korean manufacturer Hyundai. It will be the first time the US tech company has sold cars outside its home country. Continue reading...",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-25T13:17:21+00:00",
+   "canon": "https://theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
+   "id": "f1cac1efb134",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "EasyJet boss unable to rule out further job losses after profits collapse by 96%",
+   "summary": "Kenton Jarvis says rival airlines could go bust after Iran war drives sharp rises in fuel prices and hits travel demand Business live \u2013 latest updates The boss of easyJet has said he cannot rule out further job cuts and predicted some rival airlines could go bust, after soaring fuel prices this year triggered a collapse in profits. EastJet\u2019s pre-tax profit dropped 96% to \u00a324m in its financial year ending in September, compared with \u00a3658m in the previous 12 months. Continue reading...",
+   "url": "https://www.theguardian.com/business/2026/nov/25/easyjet-unable-to-rule-out-further-jobs-losses-profits-collapse-fuel-prices-iran-war",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-25T11:53:45+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/25/easyjet-unable-to-rule-out-further-jobs-losses-profits-collapse-fuel-prices-iran-war",
+   "id": "9b048b96008f",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "How datacentres are driving an illegal mining rush in the Amazon \u2018more devastating than gold\u2019",
+   "summary": "As demand for tin ores pushes up prices, criminal gangs are exploiting Indigenous lands and weak regulation to profit from Brazil\u2019s abundant cassiterite While searching for documents tied to an illegal cassiterite export network last September, Brazilian federal police officers were surprised to find a link between an illegal mining and money-laundering scheme and an address connected to one of Brazil \u2019s biggest showbusiness stars from the 90s. Alexandre Pires, a popular pagode singer-songwriter, is now under investigation as part of Operation Disco de Ouro (Gold Disc) for his alleged involvem",
+   "url": "https://www.theguardian.com/global-development/2026/nov/25/tin-cassiterite-brazil-amazon-illegal-mining-datacentres-evs",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-25T13:00:27+00:00",
+   "canon": "https://theguardian.com/global-development/2026/nov/25/tin-cassiterite-brazil-amazon-illegal-mining-datacentres-evs",
+   "id": "b7f2403bc271",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Energy bills jump: how to switch providers and is it worth it?",
+   "summary": "It is possible to switch to a better tariff and save money despite the 26% price rise in January Average energy bill in Great Britain predicted to rise to \u00a32,166 The energy price cap in Great Britain will go up by 26% in January to the equivalent of \u00a32,166 a year. However, your bills might not have to rise by the same amount. If you are paying a tariff that matches the price cap you could save by switching to something lower. And if you do it now, you could make a substantial saving. On Wednesday, the cheapest fixed tariff on the market, an 18-month fix from Fuse Energy, was priced at \u00a31,754 f",
+   "url": "https://www.theguardian.com/money/2026/nov/18/energy-price-cap-rise-how-to-beat-the-january-hike",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-25T11:48:01+00:00",
+   "canon": "https://theguardian.com/money/2026/nov/18/energy-price-cap-rise-how-to-beat-the-january-hike",
+   "id": "2d9121b633f9",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+   "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
+   "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "source": "CNBC Economy",
+   "tier": "news",
+   "published": "2026-11-25T13:17:31+00:00",
+   "canon": "https://cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "id": "749406a939d4",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Liesman: Nvidia whiplash tests Kevin Warsh\u2019s push to read market signals",
+   "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+   "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "source": "CNBC Markets",
+   "tier": "news",
+   "published": "2026-11-25T12:26:41+00:00",
+   "canon": "https://cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "id": "80ac52405082",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "The S&P 500 is headed to 8,200 \u2014 and downturns like this one are actually part of the reason, says JPMorgan",
+   "summary": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
+   "url": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T13:23:00+00:00",
+   "canon": "https://marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+   "id": "c399a5dfd2e0",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
+   "summary": "Plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year",
+   "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T13:21:00+00:00",
+   "canon": "https://marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+   "id": "ed7e67790c90",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "What the options market says to do with Nvidia\u2019s stock \u2014 and the rest of the stock market",
+   "summary": "The put-call ratio is sending a strong message about Nvidia\u2019s stock, and history suggests a post-Thanksgiving \u201cbull spread\u201d strategy for the Russell 2000 ETF.",
+   "url": "https://www.marketwatch.com/story/what-the-options-market-says-to-do-with-nvidias-stock-and-the-rest-of-the-stock-market-de9584ae?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T13:16:00+00:00",
+   "canon": "https://marketwatch.com/story/what-the-options-market-says-to-do-with-nvidias-stock-and-the-rest-of-the-stock-market-de9584ae?mod=mw_rss_topstories",
+   "id": "e2bd4da808a0",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "S&P 500\u2019s slide through a key trendline \u2014 again \u2014 is an ominous sign, history suggests",
+   "summary": "There\u2019s been no V-shaped recovery for the market this time \u2013 and that\u2019s a problem",
+   "url": "https://www.marketwatch.com/story/s-p-500s-slide-through-a-key-trendline-again-is-an-ominous-sign-history-suggests-def8b99f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T13:09:00+00:00",
+   "canon": "https://marketwatch.com/story/s-p-500s-slide-through-a-key-trendline-again-is-an-ominous-sign-history-suggests-def8b99f?mod=mw_rss_topstories",
+   "id": "fc6c66da7bc5",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Liquidity peaked. First bitcoin fell, then gold and now stocks. How long the downturn will last, according to this veteran strategist.",
+   "summary": "Mike Howell predicts that equities are in a for a tough time for a while yet but the second half of next year will be stronger.",
+   "url": "https://www.marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T13:05:00+00:00",
+   "canon": "https://marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4?mod=mw_rss_topstories",
+   "id": "c940b43cbdfe",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Here\u2019s how to find value in cybersecurity stocks after a strong year",
+   "summary": "Put stocks through this two-question stress test to avoid overpaying for growth that may not materialize.",
+   "url": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T12:30:00+00:00",
+   "canon": "https://marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
+   "id": "b5166038bba4",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Tech\u2019s slump is deepening. Are Americans heading into Black Friday with less buying power?",
+   "summary": "October\u2019s spending report will show how much Americans are actually buying. Plus, why Dell checks whether its AI customers have enough electricity, and why shoppers snapped up an $800 Advent calendar.",
+   "url": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T12:20:00+00:00",
+   "canon": "https://marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
+   "id": "df550cdd5381",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "South Africa\u2019s Ramaphosa wins battle to halt impeachment push",
+   "summary": "Court ruling stops inquiry into long-running stolen cash scandal involving president",
+   "url": "https://www.ft.com/content/e8081338-7139-4fcb-9643-73079d4913c4?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T12:50:10+00:00",
+   "canon": "https://ft.com/content/e8081338-7139-4fcb-9643-73079d4913c4?syn-25a6b1a6=1",
+   "id": "f31e0709b340",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Where did Vermeer find his hat? Artist Kent Monkman hunts for an answer",
+   "summary": "The First Nations artist has made a mischievous suite of paintings in response to the Dutch master \u2014 riffing on the violent trade networks that underpinned his scenes",
+   "url": "https://www.ft.com/content/84bc3238-c48b-4007-8ca4-48c95a7a70bf",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T12:00:04+00:00",
+   "canon": "https://ft.com/content/84bc3238-c48b-4007-8ca4-48c95a7a70bf",
+   "id": "86958bff472f",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Russia is escalating conflict in Europe and space, warns Merz",
+   "summary": "German chancellor seeks to convince increasingly sceptical population to maintain support for Ukraine",
+   "url": "https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T11:56:23+00:00",
+   "canon": "https://ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1",
+   "id": "6a40c71994a9",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "The investigations facing Nvidia and Jensen Huang",
+   "summary": "Returning CEO and chipmaker face scrutiny from federal and state authorities, Congress and shareholders",
+   "url": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T11:25:34+00:00",
+   "canon": "https://ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
+   "id": "5f9c355399b5",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "Bowman, Modernizing Banking Supervision: A Shared Agenda for the Americas",
+   "summary": "Speech At the ASBA\u2013BCBS\u2013FSI High-Level Meeting for the Americas on Banking Supervision, Bras\u00edlia, Brazil (via pre-recorded video)",
+   "url": "https://www.federalreserve.gov/newsevents/speech/bowman20261125a.htm",
+   "source": "Federal Reserve Speeches",
+   "tier": "primary",
+   "published": "2026-11-25T12:25:00+00:00",
+   "canon": "https://federalreserve.gov/newsevents/speech/bowman20261125a.htm",
+   "id": "ab6f331aa4cd",
+   "first_seen": "2026-11-25T13:29:55.007278+00:00"
   }
  ],
- "updated": "2026-11-25T11:04:44.718154+00:00"
+ "updated": "2026-11-25T13:29:55.007278+00:00"
 }
