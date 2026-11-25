@@ -1,164 +1,164 @@
 {
- "updated": "2026-11-25T17:12:11.424781+00:00",
+ "updated": "2026-11-25T18:59:59.762022+00:00",
  "sources": {
   "BBC Business": {
    "ok": true,
-   "items": 53,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "items": 55,
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "The Guardian Business": {
    "ok": true,
    "items": 40,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "items": 30,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "items": 30,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "MarketWatch Top Stories": {
    "ok": true,
    "items": 10,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "The Conversation Economy": {
    "ok": true,
    "items": 25,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Financial Times (headlines only)": {
    "ok": true,
    "items": 25,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "The Economist Finance (headlines only)": {
    "ok": true,
    "items": 300,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Federal Reserve Press Releases": {
    "ok": true,
    "items": 20,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Federal Reserve Speeches": {
    "ok": true,
    "items": 15,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Bank of England News": {
    "ok": true,
    "items": 50,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "ECB Press": {
    "ok": true,
    "items": 15,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "BLS Latest Numbers": {
    "ok": true,
    "items": 1,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market S&P 500": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market Nasdaq 100": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market FTSE 100": {
    "ok": false,
    "error": "Yahoo: HTTPError: HTTP Error 429: Too Many Requests",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market DAX": {
    "ok": false,
    "error": "Yahoo: HTTPError: HTTP Error 429: Too Many Requests",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market Nikkei 225": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market Gold (USD/oz)": {
    "ok": false,
    "error": "Yahoo: HTTPError: HTTP Error 429: Too Many Requests",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market WTI crude": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market Brent crude": {
    "ok": true,
-   "via": "Yahoo",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "via": "FRED",
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market GBP/USD": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market EUR/USD": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market US dollar index": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market US 10-year yield (%)": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market UK 10-year gilt yield (%)": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "Market Bitcoin (USD)": {
    "ok": true,
    "via": "FRED",
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "FRED FEDFUNDS": {
    "ok": true,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "FRED CPIAUCSL": {
    "ok": true,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "FRED UNRATE": {
    "ok": true,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "FRED DGS10": {
    "ok": true,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "FRED T10Y2Y": {
    "ok": true,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   },
   "FRED GDPC1": {
    "ok": true,
-   "checked": "2026-11-25T17:12:11.424781+00:00"
+   "checked": "2026-11-25T18:59:59.762022+00:00"
   }
  }
 }
