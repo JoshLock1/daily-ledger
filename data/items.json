@@ -3376,7 +3376,260 @@
    "canon": "https://federalreserve.gov/newsevents/speech/bowman20261125a.htm",
    "id": "ab6f331aa4cd",
    "first_seen": "2026-11-25T13:29:55.007278+00:00"
+  },
+  {
+   "title": "US stocks fall further as fears over AI intensify",
+   "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+   "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-25T15:05:38+00:00",
+   "canon": "https://bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "id": "e08459809784",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Fuel price hike will make life 'almost impossible'",
+   "summary": "The Fuel Bank Foundation says many homes are already cutting back and struggling with bills.",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-25T14:37:44+00:00",
+   "canon": "https://bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
+   "id": "c9851eceb187",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Business Daily",
+   "summary": "Grant LaFontaine explains how selling Pok\u00e9mon cards inspired a billion-dollar business",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct98sy?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-24T21:30:00+00:00",
+   "canon": "https://bbc.co.uk/sounds/play/w3ct98sy?at_medium=RSS&at_campaign=rss",
+   "id": "606d540c89e5",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "The Global Story",
+   "summary": "How did the entire global economy become dependent on one man?",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8mjk?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-24T10:00:00+00:00",
+   "canon": "https://bbc.co.uk/sounds/play/w3ct8mjk?at_medium=RSS&at_campaign=rss",
+   "id": "70f6c9eb373f",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Stick or switch? UK billpayers weigh up how to beat January energy jump",
+   "summary": "Despite dozens of fixed deals lower than next Ofgem price cap, many customers argue savings do not justify the risk \u201cI\u2019m looking at the off-peak rate more than doubling, peak increasing considerably as well as the standing charge,\u201d says Andy, who lives on Scotland\u2019s west coast. \u201cI have an electric vehicle and an air-source heat pump and use a lot of off-peak energy. I\u2019d like to stay with Octopus Energy \u2026 but there are better-looking deals out there.\u201d Continue reading...",
+   "url": "https://www.theguardian.com/money/2026/nov/25/heating-uk-householders-grapple-with-energy-bills",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-25T15:02:41+00:00",
+   "canon": "https://theguardian.com/money/2026/nov/25/heating-uk-householders-grapple-with-energy-bills",
+   "id": "a5dd5017a16b",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Nationwide unveils 1% deposit mortgage deal for first-time buyers",
+   "summary": "People can borrow up to six times their income, but brokers sound alarm over risks of negative equity if house prices fall A mortgage deal that lets first-time buyers borrow 99% of a property\u2019s value has prompted warnings that even a small dip in house prices could result in borrowers falling into negative equity. On Wednesday, Nationwide unveiled a mortgage enabling people to buy a home with just a 1% deposit and potentially borrow up to six times their income. Continue reading...",
+   "url": "https://www.theguardian.com/money/2026/nov/25/nationwide-unveils-1-deposit-mortgage-deal-first-time-buyers-in-uk",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-25T14:54:17+00:00",
+   "canon": "https://theguardian.com/money/2026/nov/25/nationwide-unveils-1-deposit-mortgage-deal-first-time-buyers-in-uk",
+   "id": "06e9a88ad9bb",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+   "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
+   "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+   "source": "CNBC Economy",
+   "tier": "news",
+   "published": "2026-11-25T14:18:45+00:00",
+   "canon": "https://cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+   "id": "0130997cdd14",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+   "summary": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.",
+   "url": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T15:08:00+00:00",
+   "canon": "https://marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+   "id": "90e5fc3681b7",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance",
+   "summary": "\u201cSince the advent of the atom bomb, all futures have been at risk from the whims of one man.\u201d",
+   "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T15:03:00+00:00",
+   "canon": "https://marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+   "id": "7bc52071dd3b",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Third-quarter GDP already looked great. Now it looks even better.",
+   "summary": "The economy grew in the late spring and summer at the fastest pace in three years to set the U.S. up for a strong finish in 2026. Gross domestic product expanded at a 4.3% annual pace in the third quarter, up from an initial estimate of a 3.4%.",
+   "url": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T14:47:00+00:00",
+   "canon": "https://marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+   "id": "89b6ad1bbf17",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street\u2019s newest bulls",
+   "summary": "GameStop\u2019s base of fervent retail investors is still intact, but Needham analysts say more institutional investors should take note of the company\u2019s transformation.",
+   "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T14:32:00+00:00",
+   "canon": "https://marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+   "id": "4079cf9e083f",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Feeling tired and losing your hair? You might have low iron \u2014 even if you\u2019ve tested \u2018normal\u2019 before.",
+   "summary": "A \u201csilent epidemic\u201d: Doctors are rethinking how to diagnose iron deficiency. Here\u2019s what you should know about the science of ferritin.",
+   "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T14:30:00+00:00",
+   "canon": "https://marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+   "id": "8c4e8da7bed2",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+   "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+   "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-25T14:13:00+00:00",
+   "canon": "https://marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+   "id": "63ebf40b2dfd",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Black Friday: consumer behaviour expert on what\u2019s really behind our need to chase bargains",
+   "summary": "Why we buy is as important as what we buy.",
+   "url": "https://theconversation.com/black-friday-consumer-behaviour-expert-on-whats-really-behind-our-need-to-chase-bargains-296105",
+   "source": "The Conversation Economy",
+   "tier": "analysis",
+   "published": "2026-11-25T14:24:15+00:00",
+   "canon": "https://theconversation.com/black-friday-consumer-behaviour-expert-on-whats-really-behind-our-need-to-chase-bargains-296105",
+   "id": "99aab462b3d6",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Northern Ireland minister urges UK to drop exemptions to EU food rules",
+   "summary": "Andrew Muir calls for \u2018full dynamic alignment\u2019 with European regulations so Irish Sea trade border can be scrapped",
+   "url": "https://www.ft.com/content/ec8e1e74-9b36-4912-98de-95ca6cc45d08?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T15:10:15+00:00",
+   "canon": "https://ft.com/content/ec8e1e74-9b36-4912-98de-95ca6cc45d08?syn-25a6b1a6=1",
+   "id": "ec7b64a52f69",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Why do economists struggle to forecast the impact of AI?",
+   "summary": "Frontier labs and officials present wildly different predictions for growth in the next few years",
+   "url": "https://www.ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T14:49:44+00:00",
+   "canon": "https://ft.com/content/4d330eab-0dda-4d70-be7f-22b9538e0b29",
+   "id": "e989bffd9dcc",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "No, Burnham is not taking a risk over Europe",
+   "summary": "As long as he stops short of full Rejoin, all the political danger is on the side of his opponents",
+   "url": "https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T14:44:49+00:00",
+   "canon": "https://ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1",
+   "id": "b86d03412c7a",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Spanish defence giant Indra joins Europe\u2019s push for \u2018sovereign AI\u2019",
+   "summary": "State-backed group responds to growing angst about continent\u2019s dependence on US technology",
+   "url": "https://www.ft.com/content/05d6c6b6-80ce-4331-9bed-5835991fba2e?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T14:22:29+00:00",
+   "canon": "https://ft.com/content/05d6c6b6-80ce-4331-9bed-5835991fba2e?syn-25a6b1a6=1",
+   "id": "f0ca66f6aa20",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Weil\u2019s collapse ushers in law-firm M&A by the back door",
+   "summary": "The industry is entering a period of greater volatility, leaving lawyers to wrestle with a new, hedge fund-like culture",
+   "url": "https://www.ft.com/content/7359e027-cc1c-43da-a528-d0e55c556780?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T14:11:00+00:00",
+   "canon": "https://ft.com/content/7359e027-cc1c-43da-a528-d0e55c556780?syn-25a6b1a6=1",
+   "id": "3c48de96eecd",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Influential \u2018sherpa\u2019 who negotiated Burnham\u2019s Brexit deal to step down",
+   "summary": "Former Treasury official Michael Ellam will take up a new position at Oxford in a blow to Britain\u2019s diplomatic push",
+   "url": "https://www.ft.com/content/b8448886-e4e1-4961-97e8-055d1fa7916b?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T14:10:22+00:00",
+   "canon": "https://ft.com/content/b8448886-e4e1-4961-97e8-055d1fa7916b?syn-25a6b1a6=1",
+   "id": "b2313f581c6c",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Fragrance makers fined more than \u20ac500mn over Unilever price-fixing cartel",
+   "summary": "EU and UK impose penalties over illegal collusion affecting ingredients sold to British consumer goods group",
+   "url": "https://www.ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T14:06:54+00:00",
+   "canon": "https://ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8?syn-25a6b1a6=1",
+   "id": "d69ad67dca56",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "Erdo\u011fan\u2019s biggest rival barred from Turkish presidency bid",
+   "summary": "Invalidation of opposition leader Ekrem \u0130mamo\u011flu\u2019s university degree comes as $20bn Fonzi scandal ensnares more senior government officials",
+   "url": "https://www.ft.com/content/88740333-b683-4f86-8dd2-65bf9d231ff9?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T13:47:22+00:00",
+   "canon": "https://ft.com/content/88740333-b683-4f86-8dd2-65bf9d231ff9?syn-25a6b1a6=1",
+   "id": "7ddb9922b64d",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
+  },
+  {
+   "title": "NBA rallies private equity for \u20ac10bn European arena fund",
+   "summary": "Basketball league wants to help teams finance new arenas as part of its effort to launch a European competition",
+   "url": "https://www.ft.com/content/e70a4095-2e8a-4211-aa38-1ad6a95169cb?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-25T13:00:04+00:00",
+   "canon": "https://ft.com/content/e70a4095-2e8a-4211-aa38-1ad6a95169cb?syn-25a6b1a6=1",
+   "id": "637496e658ae",
+   "first_seen": "2026-11-25T15:15:52.756583+00:00"
   }
  ],
- "updated": "2026-11-25T13:29:55.007278+00:00"
+ "updated": "2026-11-25T15:15:52.756583+00:00"
 }
