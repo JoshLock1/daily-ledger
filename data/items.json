@@ -1024,17 +1024,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
-   "summary": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
-   "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
-   "source": "CNBC Economy",
-   "tier": "news",
-   "published": "2026-11-12T08:02:15+00:00",
-   "canon": "https://cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
-   "id": "933861eb2bad",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Peterson: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central bank of AI\u2019",
    "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
@@ -4542,7 +4531,117 @@
    "canon": "https://economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
    "id": "b10d6d36db6c",
    "first_seen": "2026-11-26T07:02:45.707756+00:00"
+  },
+  {
+   "title": "Nvidia reportedly halts chip shipments to south-east Asia as stock sell-off eases \u2013 business live",
+   "summary": "UK competition watchdog finds millions of people can\u2019t afford private dental care, with prices rising by an inflation-busting 7% a year Dental care is the medical treatment Brits are most likely to put off because of high costs, a separate report found this week \u2013 forcing some people to do their own dentristy. Drawing on what people wrote about their care in UK forum threads, a new study by the private clinic Zental Dental set out to find which treatments people delay when they cannot cover the cost, and the dentist came up more than any other treatment. Dental care is the medical treatment Br",
+   "url": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T08:14:33+00:00",
+   "canon": "https://theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates",
+   "id": "7f0cb2815945",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
+  },
+  {
+   "title": "UK watchdog calls for shake-up of private dentistry market amid \u2018catalogue of concerns\u2019",
+   "summary": "CMA report highlights inflation-busting annual rises and practices that \u2018may not operate in patients\u2019 best interests\u2019 The UK\u2019s competition watchdog has called for a shake-up of the \u00a38bn private dentistry market , after an investigation identified a \u201ccatalogue of concerns\u201d including inflation-busting annual rises and evidence of targets to sell more expensive treatments and dental payment plans. The Competition and Markets Authority (CMA) said patients faced substantial differences in prices in different parts of the UK and \u201ccommercial practices, targets and incentives [that] may not operate in",
+   "url": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T08:13:01+00:00",
+   "canon": "https://theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+   "id": "489b52046b63",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
+  },
+  {
+   "title": "\u2018It\u2019s in quite a dark place\u2019: why UK housebuilding is struggling",
+   "summary": "The sector is in retreat across parts of the county, with developments paused. Despite a grim outlook for 2027 there is some cause for hope A shopping centre in London that was due to be knocked down and replaced with a retail emporium and more than 1,000 apartments has been paused , dealing another blow to the government\u2019s housing targets. Lewisham council\u2019s Green administration, which swept into power in May, insisted a larger number of affordable homes should be included in plans agreed last year with Labour officials. Continue reading...",
+   "url": "https://www.theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T07:00:48+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling",
+   "id": "fe11c9a3017b",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
+  },
+  {
+   "title": "London commuters braced for disruption as tube strike begins",
+   "summary": "Industrial action by RMT drivers expected to cause severe disruption on Thursday and Friday Severe disruption is expected across the London Underground on Thursday and Friday, when many tube drivers will go on strike. Drivers who are part of the national union of rail, maritime and transport workers (RMT) will strike for 24 hours from noon on Thursday, in the first of a fresh wave of strikes in the long-running dispute over the planned introduction of a four-day working week. Continue reading...",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/26/tube-drivers-strike-will-cause-severe-disruption-to-network-on-thursday-and-friday",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T06:56:24+00:00",
+   "canon": "https://theguardian.com/uk-news/2026/nov/26/tube-drivers-strike-will-cause-severe-disruption-to-network-on-thursday-and-friday",
+   "id": "447a94401450",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
+  },
+  {
+   "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
+   "summary": "The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world\u2019s richest person, has pledged to give every child in the US two shares in SpaceX, the space \u2060and AI company he \u200bruns, worth a total of almost $18bn. In a brief post on X, the social media platform that he owns, Musk said children will receive one share from the company itself, and one from him personally. SpaceX announced earlier on Wednesday that it would \u200bcontribute one newly issued share of its Class A common stock \u200cto every currently active T",
+   "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T07:02:37+00:00",
+   "canon": "https://theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
+   "id": "cd367b477e36",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
+  },
+  {
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+   "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "source": "CNBC Economy",
+   "tier": "news",
+   "published": "2026-11-26T08:09:39+00:00",
+   "canon": "https://cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "id": "b25c9b118866",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
+  },
+  {
+   "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+   "summary": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
+   "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+   "source": "CNBC Markets",
+   "tier": "news",
+   "published": "2026-11-26T07:30:11+00:00",
+   "canon": "https://cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+   "id": "560e1056dcb7",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
+  },
+  {
+   "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+   "summary": "The answer to the question of whether the stock market is open on Thanksgiving isn\u2019t a simple yes or no, as the major exchanges are closed, but trading of equity futures is open for part of the day.",
+   "url": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-26T07:16:00+00:00",
+   "canon": "https://marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+   "id": "982f67ff566d",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
+  },
+  {
+   "title": "UK regulator finds \u2018systemic\u2019 problems in \u00a38bn private dental market",
+   "summary": "Investigation finds patients are sold unnecessary services in an industry that more people are turning to",
+   "url": "https://www.ft.com/content/acd1b122-558c-42ba-ba28-0723ef04fd3f?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T07:59:45+00:00",
+   "canon": "https://ft.com/content/acd1b122-558c-42ba-ba28-0723ef04fd3f?syn-25a6b1a6=1",
+   "id": "f3f2b6194c43",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
+  },
+  {
+   "title": "It\u2019s an earnings bubble, not a valuation bubble",
+   "summary": "The difference matters",
+   "url": "https://www.ft.com/content/511cf4f3-36ea-47a8-9c0b-96e0f8137a9f?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T07:30:10+00:00",
+   "canon": "https://ft.com/content/511cf4f3-36ea-47a8-9c0b-96e0f8137a9f?syn-25a6b1a6=1",
+   "id": "05acf37d3b67",
+   "first_seen": "2026-11-26T08:23:57.081157+00:00"
   }
  ],
- "updated": "2026-11-26T07:02:45.707756+00:00"
+ "updated": "2026-11-26T08:23:57.081157+00:00"
 }
