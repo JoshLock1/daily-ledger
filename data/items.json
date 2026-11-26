@@ -2179,17 +2179,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "Barr, American Inequality and the Future of AI",
-   "summary": "Speech At Yale University, New Haven, Connecticut",
-   "url": "https://www.federalreserve.gov/newsevents/speech/barr20261112a.htm",
-   "source": "Federal Reserve Speeches",
-   "tier": "primary",
-   "published": "2026-11-12T15:00:00+00:00",
-   "canon": "https://federalreserve.gov/newsevents/speech/barr20261112a.htm",
-   "id": "5d86430d44f8",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
    "summary": "Daniel E. Pinto has been appointed as an external member of the Financial Policy Committee.",
    "url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
@@ -5158,7 +5147,216 @@
    "canon": "https://ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
    "id": "72494d7a50bc",
    "first_seen": "2026-11-26T13:28:51.342477+00:00"
+  },
+  {
+   "title": "Millions of people to see average monthly mortgage payments rise by \u00a3100",
+   "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+   "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-26T14:00:20+00:00",
+   "canon": "https://bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+   "id": "bc97ee59186c",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+   "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+   "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-26T13:40:46+00:00",
+   "canon": "https://bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+   "id": "672f078e7605",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "When will Poundland close? Five questions about its future",
+   "summary": "Why is Poundland closing down, and what will hapen to staff and suppliers?",
+   "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-26T14:05:27+00:00",
+   "canon": "https://bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "id": "4ba2d43a94ad",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+   "summary": "Latest figure of young people not in education, employment or training remains close to highest level in a decade Business live \u2013 latest updates UK politics live \u2013 latest updates The number of young people across the UK not in education, employment or training (Neet) has decreased but remains close to a million as Andy Burnham\u2019s government pushes to tackle Britain\u2019s youth jobs crisis. As ministers prepare to make sweeping changes in response to Alan Milburn\u2019s landmark report on young people and work, the Office for National Statistics said the number of Neets fell by 22,000 in the three months",
+   "url": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T13:43:51+00:00",
+   "canon": "https://theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+   "id": "a30dc74e6bbc",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "I helped organise the letter from Labour MPs urging Andy Burnham to reject Rosebank. This is why | Catherine Fookes",
+   "summary": "Approval would be celebrated by the oil giants, but it wouldn\u2019t help our constituents who worry about the climate crisis, and their bills Catherine Fookes is Labour MP for Monmouthshire Labour split over Rosebank oilfield exposed by letter from nearly 100 MPs This week it was confirmed that millions of households are facing yet another winter of unaffordable energy bills , just as we learn that this summer\u2019s heatwaves were linked to more than 5,000 deaths in the UK . The cost of living and climate crises are two sides of the same coin: our continued dependence on fossil fuels is driving up bil",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T15:00:37+00:00",
+   "canon": "https://theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
+   "id": "6a7d1bc2de27",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "I\u2019m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
+   "summary": "We\u2019re developing the most powerful tech in history \u2013 but trust, safeguarding and privacy are being sidelined in favour of huge profit I\u2019m a senior AI leader at one of the world\u2019s biggest tech companies, and the products we put out into the world are increasingly being recklessly rushed, without proper consideration. The tech industry used to take safety and privacy seriously, but lately I have become worried by how rash we have become. In a sector that is obsessed with being first, ethical hesitation is now viewed as a luxury we can\u2019t afford. If you want to properly understand the actions of b",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T14:06:10+00:00",
+   "canon": "https://theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+   "id": "5b9373e40f5b",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
+   "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+   "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+   "source": "CNBC Economy",
+   "tier": "news",
+   "published": "2026-11-26T14:59:47+00:00",
+   "canon": "https://cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+   "id": "08e3f1ddfca7",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Semiconductor chips are the new oil. Here's why",
+   "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+   "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "source": "CNBC Markets",
+   "tier": "news",
+   "published": "2026-11-26T13:19:25+00:00",
+   "canon": "https://cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "id": "9955375c0b95",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+   "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72.",
+   "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-26T14:35:00+00:00",
+   "canon": "https://marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+   "id": "c1278eb972e4",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Nvidia and the whole AI trade aren\u2019t out of the woods \u2014 not by a long shot",
+   "summary": "The \u2018Bank of AI\u2019 faces a host of troubles ahead.",
+   "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-26T14:00:00+00:00",
+   "canon": "https://marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+   "id": "091aca5a9d47",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+   "summary": "Inflation is top concern for US central bank officials even as tech-led sell-off triggers fears for economy",
+   "url": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T14:58:45+00:00",
+   "canon": "https://ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+   "id": "8f59f630861b",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Pablo Hern\u00e1ndez de Cos wins race for ECB presidency",
+   "summary": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klaas Knot",
+   "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T14:44:13+00:00",
+   "canon": "https://ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+   "id": "9ef33a4b4c24",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Altria explores takeover bid for Imperial Brands",
+   "summary": "Deal would remove another of UK\u2019s large listed companies from the London stock market",
+   "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T14:32:21+00:00",
+   "canon": "https://ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?syn-25a6b1a6=1",
+   "id": "36161529cdc1",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "New allegations surface of Jordan Bardella\u2019s teenage antisemitism",
+   "summary": "Far-right French politician says he never sent such messages and accuses media of \u2018witch-hunts\u2019",
+   "url": "https://www.ft.com/content/095d57ac-9f61-4d22-8358-7b6fafbf19bc?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T14:22:01+00:00",
+   "canon": "https://ft.com/content/095d57ac-9f61-4d22-8358-7b6fafbf19bc?syn-25a6b1a6=1",
+   "id": "74505645bc30",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "The new ECB team is set for a baptism of fire",
+   "summary": "The tail-end of the ECB\u2019s tightening cycle and the fallout of a consequential election in France will provide an early test",
+   "url": "https://www.ft.com/content/441dbda3-38be-48b9-9603-3b68f1ed3a48",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T14:11:40+00:00",
+   "canon": "https://ft.com/content/441dbda3-38be-48b9-9603-3b68f1ed3a48",
+   "id": "2d95cce45b3a",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Want more apprentices? Start by upskilling the trainers",
+   "summary": "Abundance of further education and skills providers in UK means huge diversity in heft and quality",
+   "url": "https://www.ft.com/content/bbc6102c-832c-4a63-86e9-0748023c49e8?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T14:08:45+00:00",
+   "canon": "https://ft.com/content/bbc6102c-832c-4a63-86e9-0748023c49e8?syn-25a6b1a6=1",
+   "id": "16c62688a142",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "British and European banks have taken on a lot of France risk",
+   "summary": "Toulouse or not Toulouse",
+   "url": "https://www.ft.com/content/022fcf0c-9a7a-4bf0-b853-4de8b2ba88b9",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T13:32:02+00:00",
+   "canon": "https://ft.com/content/022fcf0c-9a7a-4bf0-b853-4de8b2ba88b9",
+   "id": "9baeac62b1d1",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Payments systems Memorandum of Understanding",
+   "summary": "Bank of England, PRA, FCA and PSR review Memorandum of Understanding in relation to payment systems in the UK",
+   "url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+   "source": "Bank of England News",
+   "tier": "primary",
+   "published": "2026-11-26T15:00:00+00:00",
+   "canon": "https://bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+   "id": "f75776de90bc",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
+  },
+  {
+   "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
+   "summary": "Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder",
+   "url": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+   "source": "Bank of England News",
+   "tier": "primary",
+   "published": "2026-11-26T12:33:57+00:00",
+   "canon": "https://bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+   "id": "c0f149db93f2",
+   "first_seen": "2026-11-26T15:10:55.768018+00:00"
   }
  ],
- "updated": "2026-11-26T13:28:51.342477+00:00"
+ "updated": "2026-11-26T15:10:55.768018+00:00"
 }
