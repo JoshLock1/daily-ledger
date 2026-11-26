@@ -1354,17 +1354,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-   "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-   "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-   "source": "CNBC Markets",
-   "tier": "news",
-   "published": "2026-11-12T19:05:25+00:00",
-   "canon": "https://cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-   "id": "aae32188c5ce",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Micron boosted CEO Sanjay Mehrotra\u2019s security budget by 2,000%, new filing shows",
    "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
    "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
@@ -2055,28 +2044,6 @@
    "published": "2026-11-13T21:15:00+00:00",
    "canon": "https://federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
    "id": "693f10b584f5",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
-   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-   "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-   "source": "Federal Reserve Press Releases",
-   "tier": "primary",
-   "published": "2026-11-12T18:30:00+00:00",
-   "canon": "https://federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-   "id": "ae15302597b2",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
-   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-   "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-   "source": "Federal Reserve Press Releases",
-   "tier": "primary",
-   "published": "2026-11-12T17:45:00+00:00",
-   "canon": "https://federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-   "id": "be208f72dc7a",
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
@@ -5477,7 +5444,106 @@
    "canon": "https://ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
    "id": "3755378a393e",
    "first_seen": "2026-11-26T17:16:08.606464+00:00"
+  },
+  {
+   "title": "New boss appointed to lead Travelodge",
+   "summary": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-26T12:03:49+00:00",
+   "canon": "https://bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+   "id": "88d3a8696d3f",
+   "first_seen": "2026-11-26T19:06:49.175390+00:00"
+  },
+  {
+   "title": "Spain\u2019s Pablo Hern\u00e1ndez de Cos wins race to be next ECB president",
+   "summary": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU\u2019s biggest countries Spain\u2019s Pablo Hern\u00e1ndez de Cos has been chosen as the next president of the European Central Bank, to succeed Christine Lagarde, after winning support from the EU\u2019s biggest countries. The economist and monetary policymaker will become the first Spaniard to lead the ECB, defeating his rival candidate Klaas Knot, the former head of the Dutch central bank. Continue reading...",
+   "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T17:50:54+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+   "id": "5615c3a4fe7f",
+   "first_seen": "2026-11-26T19:06:49.175390+00:00"
+  },
+  {
+   "title": "Major East Midlands road projects shelved to divert funding to defence",
+   "summary": "Regional mayor says cancelling works on A38 at Derby and Newark bypass on A46 \u2018disappointing and short-sighted\u2019 Two long-awaited major road schemes have been cancelled to divert more than \u00a3400m into defence spending, the government has confirmed. Upgrades to roundabouts on the A38 around Derby and to the Newark bypass on the A46 will be shelved. Continue reading...",
+   "url": "https://www.theguardian.com/world/2026/nov/26/major-east-midlands-road-projects-shelved-to-divert-funding-to-defence",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T18:47:24+00:00",
+   "canon": "https://theguardian.com/world/2026/nov/26/major-east-midlands-road-projects-shelved-to-divert-funding-to-defence",
+   "id": "178a3e26fd56",
+   "first_seen": "2026-11-26T19:06:49.175390+00:00"
+  },
+  {
+   "title": "Public service broadcaster services should be top of TV app menus \u2013 Ofcom",
+   "summary": "UK regulator\u2019s code of practice on streaming platforms is intended to give prominence to iPlayer and similar offerings Public service broadcasters\u2019 streaming services such as BBC iPlayer should appear first on app menus on smart TVs to give them an \u201cappropriate degree of prominence\u201d, according to Ofcom . In addition, the regulator has said public service shows should rank higher on voice and text searches on televisions connected to the internet. Continue reading...",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T17:09:14+00:00",
+   "canon": "https://theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
+   "id": "6810215c722c",
+   "first_seen": "2026-11-26T19:06:49.175390+00:00"
+  },
+  {
+   "title": "Some old-school advice for Burnham: boost competition if you want growth | Nils Pratley",
+   "summary": "Two former Treasury officials say the value of competition and disruption has become \u2018the blind spot of UK economic policy\u2019 The defenestration of Marcus Bokkerink in the Keir Starmer-Rachel Reeves era is half-forgotten now \u2013 but the saga was a big deal in January 2025 and should still matter to those at the top of today\u2019s government. Bokkerink was chair of the Competition and Markets Authority (CMA) until he was turfed out because, it seemed, he was deemed insufficiently aligned with the Starmer-Reeves idea that regulators should \u201csupport growth\u201d. Bokkerink hit back by warning of the dangers o",
+   "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/26/old-school-advice-burnham-boost-competition-if-you-want-growth",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T18:19:14+00:00",
+   "canon": "https://theguardian.com/business/nils-pratley-on-finance/2026/nov/26/old-school-advice-burnham-boost-competition-if-you-want-growth",
+   "id": "ffa5fa99e335",
+   "first_seen": "2026-11-26T19:06:49.175390+00:00"
+  },
+  {
+   "title": "Poundland staff fear they\u2019ll be left out in the cold for Christmas. When will workers have a say in their future? | Polly Toynbee",
+   "summary": "High streets and ultimately the taxpayer will suffer from the chain\u2019s liquidation. Who will benefit? The company that snapped up this institution for just \u00a31 When the bad news came through on his mobile on Wednesday afternoon, the manager of Poundland\u2019s store in Camden, north London, Aboud, summoned all his staff. \u201cOne lad, been here 11 years, was in tears and ran out of the store, he was so upset. This is home and family for many of them.\u201d They are among 11,000 staff whose jobs are now at risk, but some shops might get bought by other chains. \u201cDo you know,\u201d Aboud asks me, \u201ccan we find out if ",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/26/poundland-staff-christmas-workers-future-high-streets-taxpayer",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T17:48:25+00:00",
+   "canon": "https://theguardian.com/commentisfree/2026/nov/26/poundland-staff-christmas-workers-future-high-streets-taxpayer",
+   "id": "2f5c4b958782",
+   "first_seen": "2026-11-26T19:06:49.175390+00:00"
+  },
+  {
+   "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
+   "summary": "The Trump administration has approved Elon Musk\u2019s plan to create datacentres in space. US federal regulators have authorised the launch of one million Starmind orbital satellites, which are built by Musk\u2019s SpaceX, to process data in space. Supporters argue the project will be more energy-efficient and reduce the environmental impact of datacentres on Earth as the AI industry grows. But how realistic is the plan and what could the consequences be? Michael Safi speaks to Guardian global technology editor Dan Milmo Continue reading...",
+   "url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T18:34:17+00:00",
+   "canon": "https://theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
+   "id": "a622e99032d6",
+   "first_seen": "2026-11-26T19:06:49.175390+00:00"
+  },
+  {
+   "title": "Trump doubles down on his tariff agenda",
+   "summary": "New import levies on 14 partners defy voters and add to price pressures",
+   "url": "https://www.ft.com/content/17a849f1-7e64-4f56-b756-ccf12662ebff?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T18:31:18+00:00",
+   "canon": "https://ft.com/content/17a849f1-7e64-4f56-b756-ccf12662ebff?syn-25a6b1a6=1",
+   "id": "c0bf5a67cd8f",
+   "first_seen": "2026-11-26T19:06:49.175390+00:00"
+  },
+  {
+   "title": "Italy\u2019s PM rebukes Ukraine for attacks on Russian ships in Mediterranean",
+   "summary": "\u2018This war must not, cannot spread to the Mediterranean,\u2019 Giorgia Meloni says at EU summit",
+   "url": "https://www.ft.com/content/7461793f-6983-45ea-8ba2-8b1824df9379?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T18:28:26+00:00",
+   "canon": "https://ft.com/content/7461793f-6983-45ea-8ba2-8b1824df9379?syn-25a6b1a6=1",
+   "id": "301f3214e637",
+   "first_seen": "2026-11-26T19:06:49.175390+00:00"
   }
  ],
- "updated": "2026-11-26T17:16:08.606464+00:00"
+ "updated": "2026-11-26T19:06:49.175390+00:00"
 }
