@@ -1992,39 +1992,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "The return of the snatch-and-grab state",
-   "summary": "A new history of confiscation sheds light on modern economic warfare",
-   "url": "https://www.economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
-   "source": "The Economist Finance (headlines only)",
-   "tier": "analysis",
-   "published": "2026-11-12T10:40:24+00:00",
-   "canon": "https://economist.com/finance-and-economics/2026/11/12/the-return-of-the-snatch-and-grab-state",
-   "id": "0d2e5d3486f3",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
-   "title": "Where to find the anti-AI trade",
-   "summary": "The worse chipmakers do, the better Indian equities perform",
-   "url": "https://www.economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
-   "source": "The Economist Finance (headlines only)",
-   "tier": "analysis",
-   "published": "2026-11-12T10:38:28+00:00",
-   "canon": "https://economist.com/finance-and-economics/2026/11/12/where-to-find-the-anti-ai-trade",
-   "id": "c6ab6bfb3168",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
-   "title": "Italy\u2019s proposed exit tax causes ructions",
-   "summary": "Taxing rich emigrants\u2019 capital gains may be good in theory. Practice is harder",
-   "url": "https://www.economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
-   "source": "The Economist Finance (headlines only)",
-   "tier": "analysis",
-   "published": "2026-11-12T10:35:00+00:00",
-   "canon": "https://economist.com/finance-and-economics/2026/11/12/italys-proposed-exit-tax-causes-ructions",
-   "id": "7af35cd688ba",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
    "summary": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
@@ -4674,7 +4641,205 @@
    "canon": "https://ft.com/content/722ecb81-51cc-4897-baa9-cb80c4d2fe4a?syn-25a6b1a6=1",
    "id": "97bb0521e342",
    "first_seen": "2026-11-26T09:16:32.113236+00:00"
+  },
+  {
+   "title": "Car finance compensation payments explained",
+   "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+   "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-26T09:39:50+00:00",
+   "canon": "https://bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+   "id": "e879215c22c8",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "UK signs \u00a38bn deal to ensure submarines are 'warfighting ready'",
+   "summary": "The deal will allow \"work around the clock to get our submarines back out to sea\" , Wes Streeting says.",
+   "url": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-26T09:23:46+00:00",
+   "canon": "https://bbc.co.uk/news/articles/cq39gz99l1pyo?at_medium=RSS&at_campaign=rss",
+   "id": "86d0432ac2aa",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "UK regulator admits error in calculating car finance compensation payments",
+   "summary": "FCA also tells Barclays to stop making settlement offers while it works through data problems Business live \u2013 latest updates The financial regulator has admitted that it has miscalculated part of the compensation scheme for victims of the car finance scandal and told Barclays to stop making settlement offers while it works through the data problems. The Financial Conduct Authority (FCA) revealed it had identified \u201csome errors in how we categorised a small group of loan agreements\u2019, which will affect the average compensation payout to drivers. Continue reading...",
+   "url": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T09:18:11+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
+   "id": "3c665ac3d33d",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
+   "summary": "Norwegian airline says its finances are \u2018critical\u2019 and it will file for bankruptcy if it cannot secure short-term backing Business live \u2013 latest updates Norse Atlantic Airways has suspended all flights and said it will file for bankruptcy if it cannot secure short-term financing urgently. The Norwegian airline, which operates long-haul flights around the world including from London Gatwick and the US to Europe and Asia, announced it was on the brink on Thursday morning, a day after warning that its finances were \u201ccritical\u201d. Continue reading...",
+   "url": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T10:15:18+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
+   "id": "e5d031100a11",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "We may all be eating too much protein. But that won\u2019t stop the influencers and big business | Devi Sridhar",
+   "summary": "Protein is the food industry\u2019s current nutritional good guy. The fact that it\u2019s often added to ultra-processed food makes it anything but When I was growing up in the US in the 1980s and 90s, fat in foods was demonised . Low-fat yoghurt, low-fat desserts and low-fat margarine were all the rage, with the message that fat was bad for our hearts and arteries . By the early 2000s, concern had moved to added sugar and its apparent links to obesity and type 2 diabetes , driving food reformulations. Sugar was replaced with artificial sweeteners such as aspartame and acesulfame K, which have their own",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/26/eating-too-much-protein-influencers-big-business-ultra-processed-food",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T08:00:50+00:00",
+   "canon": "https://theguardian.com/commentisfree/2026/nov/26/eating-too-much-protein-influencers-big-business-ultra-processed-food",
+   "id": "b8b278b3feec",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "Details of two treaties at heart of Andy Burnham\u2019s EU reset to be published",
+   "summary": "Government also to publish bill that will enact EU deals as Tories and Reform hit out over 10-year termination clause Europe live \u2013 latest updates Business live \u2013 latest updates Details of two treaties at the heart of Andy Burnham\u2019s post- Brexit reset plans will be published on Thursday alongside the bill that will implement the changes into UK law. The treaties signed by the UK and the European Union at last week\u2019s summit will have a 10-year termination clause that would mean if one party were to end the agreement, they would have to pay to rebuild border checks infrastructure, the BBC report",
+   "url": "https://www.theguardian.com/politics/2026/nov/26/treaties-andy-burnham-eu-reset-published",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T09:16:19+00:00",
+   "canon": "https://theguardian.com/politics/2026/nov/26/treaties-andy-burnham-eu-reset-published",
+   "id": "d2f407b6a1ed",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "A vocal cohort of tech leaders celebrates Huang\u2019s Nvidia return, but others are keeping quiet",
+   "summary": "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh in The phrase \u201creturn of the king\u201d rippled across social media on Monday. A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia\u2019s CEO. Some called him the \u201cimperial and royal majesty\u201d, others anointed him as \u201cour Jesus\u201d and several simply posted a crown emoji. \u201cThe mistake has been corrected,\u201d said Elon Musk. \u201cJensen!\u201d exclaimed OpenAI\u2019s Sam Altman. Continue reading...",
+   "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-26T10:00:52+00:00",
+   "canon": "https://theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
+   "id": "a4043e9ae146",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+   "summary": "A rebound off lows for the S&P 500 on Wednesday calms bourses after AI wash out",
+   "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-26T10:37:00+00:00",
+   "canon": "https://marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+   "id": "1e715d53732d",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+   "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
+   "url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-26T10:11:00+00:00",
+   "canon": "https://marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+   "id": "9900974b02f4",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "Franco-German clash over \u2018Made in Europe\u2019 in EU defence budget",
+   "summary": "Berlin leads pushback against French demands for European preference in buying military equipment",
+   "url": "https://www.ft.com/content/c9e569cd-d9c7-43ea-877e-7fa6d1e91ea7?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T10:11:49+00:00",
+   "canon": "https://ft.com/content/c9e569cd-d9c7-43ea-877e-7fa6d1e91ea7?syn-25a6b1a6=1",
+   "id": "67c02fa85c50",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "UK net migration falls by more than half to 77,000",
+   "summary": "Drop during the 12 months to June follows the introduction of stricter rules for workers, students and refugees",
+   "url": "https://www.ft.com/content/3f5ea9f4-064c-4547-9cf2-1140516c8002?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T09:39:47+00:00",
+   "canon": "https://ft.com/content/3f5ea9f4-064c-4547-9cf2-1140516c8002?syn-25a6b1a6=1",
+   "id": "6e7442574de9",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "\u2018Chicken nuggets\u2019 meme ensnares both Burnham and Badenoch",
+   "summary": "Row over influencer\u2019s video has exposed both leaders\u2019 inability to handle online misinformation",
+   "url": "https://www.ft.com/content/bddce920-71a7-40b5-9c03-e01a4102a341?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T09:30:00+00:00",
+   "canon": "https://ft.com/content/bddce920-71a7-40b5-9c03-e01a4102a341?syn-25a6b1a6=1",
+   "id": "12c34d275757",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "Babcock secures record \u00a38.7bn contract to support Royal Navy submarines",
+   "summary": "Five-year deal comes amid concerns over fleet\u2019s readiness and increased Russian activity in north Atlantic",
+   "url": "https://www.ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T09:03:42+00:00",
+   "canon": "https://ft.com/content/b6db41b9-5af1-4105-a063-7dbf40e7fb2c?syn-25a6b1a6=1",
+   "id": "369e169aa405",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "FCA admits miscalculating compensation in \u00a39bn car mis-selling redress scheme",
+   "summary": "UK financial regulator\u2019s error risks further delays to payments for millions of consumers",
+   "url": "https://www.ft.com/content/b7eb2472-557a-4c0f-b625-f6dbbb7391a8?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-26T08:40:24+00:00",
+   "canon": "https://ft.com/content/b7eb2472-557a-4c0f-b625-f6dbbb7391a8?syn-25a6b1a6=1",
+   "id": "81577599b9c3",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "History\u2019s warning lesson for Anthropic",
+   "summary": "As tech stocks plunge, recall the fate of the East India Company",
+   "url": "https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
+   "source": "The Economist Finance (headlines only)",
+   "tier": "analysis",
+   "published": "2026-11-26T09:49:07+00:00",
+   "canon": "https://economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
+   "id": "08239532131f",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "The fall of China\u2019s most trusted wealth manager",
+   "summary": "A hard landing for CreditEase",
+   "url": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
+   "source": "The Economist Finance (headlines only)",
+   "tier": "analysis",
+   "published": "2026-11-26T09:47:52+00:00",
+   "canon": "https://economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
+   "id": "682eb0c3c660",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "Mexico\u2019s export boom is real\u2014and disappointing",
+   "summary": "AI servers are no pickup trucks",
+   "url": "https://www.economist.com/finance-and-economics/2026/11/26/mexicos-export-boom-is-real-and-disappointing",
+   "source": "The Economist Finance (headlines only)",
+   "tier": "analysis",
+   "published": "2026-11-26T09:45:41+00:00",
+   "canon": "https://economist.com/finance-and-economics/2026/11/26/mexicos-export-boom-is-real-and-disappointing",
+   "id": "dbe31d0e3533",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
+  },
+  {
+   "title": "Financial Policy Committee Record \u2013 November 2026",
+   "summary": "Our Financial Policy Committee (FPC) meets to identify risks to financial stability and agree policy actions aimed at safeguarding the resilience of the UK financial system.",
+   "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+   "source": "Bank of England News",
+   "tier": "primary",
+   "published": "2026-11-26T10:30:00+00:00",
+   "canon": "https://bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+   "id": "ab7997f9952e",
+   "first_seen": "2026-11-26T11:04:05.226204+00:00"
   }
  ],
- "updated": "2026-11-26T09:16:32.113236+00:00"
+ "updated": "2026-11-26T11:04:05.226204+00:00"
 }
