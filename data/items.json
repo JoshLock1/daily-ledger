@@ -2168,17 +2168,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-   "summary": "Joint media release",
-   "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
-   "source": "Bank of England News",
-   "tier": "primary",
-   "published": "2026-11-13T09:00:00+00:00",
-   "canon": "https://bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
-   "id": "e3a2e217dad9",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Boris Vuj\u010di\u0107: Resilience in an age of shocks: lessons from central and eastern Europe",
    "summary": "",
    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
@@ -6005,7 +5994,29 @@
    "canon": "https://ft.com/content/8a8d973e-e476-4578-80a9-26e9c6e5f912?syn-25a6b1a6=1",
    "id": "ad10ff3426ec",
    "first_seen": "2026-11-27T08:22:10.706980+00:00"
+  },
+  {
+   "title": "'We're scared to turn our heating on'",
+   "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+   "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-27T08:47:00+00:00",
+   "canon": "https://bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
+   "id": "b474f6db8d88",
+   "first_seen": "2026-11-27T09:16:38.480296+00:00"
+  },
+  {
+   "title": "ECB Consumer Expectations Survey results \u2013 October 2026",
+   "summary": "",
+   "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+   "source": "ECB Press",
+   "tier": "primary",
+   "published": "2026-11-27T09:00:00+00:00",
+   "canon": "https://ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+   "id": "3f36a6739057",
+   "first_seen": "2026-11-27T09:16:38.480296+00:00"
   }
  ],
- "updated": "2026-11-27T08:22:10.706980+00:00"
+ "updated": "2026-11-27T09:16:38.480296+00:00"
 }
