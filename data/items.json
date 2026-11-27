@@ -2278,17 +2278,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "Isabel Schnabel: Made in Europe",
-   "summary": "",
-   "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-   "source": "ECB Press",
-   "tier": "primary",
-   "published": "2026-11-13T07:20:00+00:00",
-   "canon": "https://ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-   "id": "329b7680d194",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Major Economic Indicators Latest Numbers",
    "summary": "Consumer Price Index (CPI): +0.4% in Oct 2026 News Release Historical Data Unemployment Rate: 4.1% in Oct 2026 News Release Historical Data Payroll Employment: +165,000(p) in Oct 2026 News Release Historical Data Average Hourly Earnings: +$0.14(p) in Oct 2026 News Release Historical Data Producer Price Index - Final Demand: +0.3%(p) in Oct 2026 News Release Historical Data Employment Cost Index (ECI): +0.8% in 3rd Qtr of 2026 News Release Historical Data Productivity: +3.6% in 3rd Qtr of 2026 News Release Historical Data U.S. Import Price Index: +1.1% in Oct 2026 News Release Historical Data U",
    "url": "https://www.bls.gov/bls/",
@@ -5950,7 +5939,73 @@
    "canon": "https://ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
    "id": "f9e8b61fa80c",
    "first_seen": "2026-11-27T07:04:34.476728+00:00"
+  },
+  {
+   "title": "From \u00a3250 job to \u00a39,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+   "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-27T00:58:49+00:00",
+   "canon": "https://bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+   "id": "706b25f7cc94",
+   "first_seen": "2026-11-27T08:22:10.706980+00:00"
+  },
+  {
+   "title": "UK\u2019s bank tax hike could hit borrowers and savers, Bank of England governor warns \u2013 business live",
+   "summary": "Rolling coverage of the latest economic and financial news Bailey has also warned around the growing power of artificial intelligence models. He told Politico that lawmakers, not regulators, will need to set the guardrails for the technology. It\u2019s a bit like rearing children. You have to give them the chance to do things, but you also have to set some sort of boundaries as it were. \u2026The public needs to trust this technology. There needs to be greater transparency, explanation of what the things do, how they do it, what we\u2019re doing. It could have powers that go beyond what we\u2019re seeing with fro",
+   "url": "https://www.theguardian.com/business/live/2026/nov/27/uk-bank-tax-borrowers-savers-andrew-bailey-stocks-economy-businses-news-live-updates-latest",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T07:55:52+00:00",
+   "canon": "https://theguardian.com/business/live/2026/nov/27/uk-bank-tax-borrowers-savers-andrew-bailey-stocks-economy-businses-news-live-updates-latest",
+   "id": "ef01cef12d76",
+   "first_seen": "2026-11-27T08:22:10.706980+00:00"
+  },
+  {
+   "title": "\u2018If the bot gets it wrong, who\u2019s liable?\u2019 Retailers enter the unknown with AI shopping assistants on Black Friday",
+   "summary": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop They promise to find the best Black Friday deals, source Christmas gifts and find the ingredients for a romantic dinner. This week\u2019s UK launch of the Muse AI assistant by the owner of Facebook and Instagram promises to transform how we shop \u2013 and how retailers make money. Continue reading...",
+   "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T07:00:56+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+   "id": "940890777b8e",
+   "first_seen": "2026-11-27T08:22:10.706980+00:00"
+  },
+  {
+   "title": "Homes for sale with literary connections in England and Scotland \u2013 in pictures",
+   "summary": "From a London block that once housed TS Eliot and Ian Fleming to a stately country house that inspired The Secret Garden Continue reading...",
+   "url": "https://www.theguardian.com/money/gallery/2026/nov/27/homes-for-sale-with-literary-connections-england-scotland",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T07:00:58+00:00",
+   "canon": "https://theguardian.com/money/gallery/2026/nov/27/homes-for-sale-with-literary-connections-england-scotland",
+   "id": "ded61b2812fb",
+   "first_seen": "2026-11-27T08:22:10.706980+00:00"
+  },
+  {
+   "title": "French economy shrinks 0.2% in third quarter",
+   "summary": "Quarterly GDP reduction was worse than initially estimated",
+   "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T08:19:11+00:00",
+   "canon": "https://ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
+   "id": "1165b5b98e3a",
+   "first_seen": "2026-11-27T08:22:10.706980+00:00"
+  },
+  {
+   "title": "Sky-high WiFi will give airlines a shortlived boost",
+   "summary": "What seems like an upgrade will soon be an everyday expectation, much like hotel WiFis",
+   "url": "https://www.ft.com/content/8a8d973e-e476-4578-80a9-26e9c6e5f912?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T07:11:05+00:00",
+   "canon": "https://ft.com/content/8a8d973e-e476-4578-80a9-26e9c6e5f912?syn-25a6b1a6=1",
+   "id": "ad10ff3426ec",
+   "first_seen": "2026-11-27T08:22:10.706980+00:00"
   }
  ],
- "updated": "2026-11-27T07:04:34.476728+00:00"
+ "updated": "2026-11-27T08:22:10.706980+00:00"
 }
