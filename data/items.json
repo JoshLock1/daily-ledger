@@ -980,17 +980,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-   "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-   "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-   "source": "CNBC Economy",
-   "tier": "news",
-   "published": "2026-11-13T21:18:30+00:00",
-   "canon": "https://cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-   "id": "55fffce117db",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Peterson: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central bank of AI\u2019",
    "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
@@ -1945,17 +1934,6 @@
    "published": "2026-11-18T19:00:00+00:00",
    "canon": "https://federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
    "id": "174c0f036bd1",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
-   "title": "Agencies extend comment period for proposed third-party risk management guidance",
-   "summary": "Agencies extend comment period for proposed third-party risk management guidance",
-   "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-   "source": "Federal Reserve Press Releases",
-   "tier": "primary",
-   "published": "2026-11-13T21:15:00+00:00",
-   "canon": "https://federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-   "id": "693f10b584f5",
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
@@ -6511,7 +6489,18 @@
    "canon": "https://ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1",
    "id": "ed6a74036499",
    "first_seen": "2026-11-27T21:03:56.099477+00:00"
+  },
+  {
+   "title": "S&P cuts France outlook to negative",
+   "summary": "Rating agency says political instability will make it harder for the country to tackle its public deficit",
+   "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T22:45:36+00:00",
+   "canon": "https://ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+   "id": "d2adc14f787f",
+   "first_seen": "2026-11-27T23:03:59.812679+00:00"
   }
  ],
- "updated": "2026-11-27T21:03:56.099477+00:00"
+ "updated": "2026-11-27T23:03:59.812679+00:00"
 }
