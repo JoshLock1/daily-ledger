@@ -1563,17 +1563,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "The 2% tax hike on rental income is bad for landlords and tenants alike. Here\u2019s what reform looks like",
-   "summary": "Andy Burnham wants to \u2018end 40 years of neoliberalism\u2019 \u2013 but his first budget missed a huge chance to improve housing.",
-   "url": "https://theconversation.com/the-2-tax-hike-on-rental-income-is-bad-for-landlords-and-tenants-alike-heres-what-reform-looks-like-295816",
-   "source": "The Conversation Economy",
-   "tier": "analysis",
-   "published": "2026-11-13T10:18:41+00:00",
-   "canon": "https://theconversation.com/the-2-tax-hike-on-rental-income-is-bad-for-landlords-and-tenants-alike-heres-what-reform-looks-like-295816",
-   "id": "4cb9e476b21e",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
    "summary": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
    "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
@@ -6016,7 +6005,172 @@
    "canon": "https://ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
    "id": "3f36a6739057",
    "first_seen": "2026-11-27T09:16:38.480296+00:00"
+  },
+  {
+   "title": "Pizza history: AI agent\u2019s cardless purchase is a first for UK",
+   "summary": "Papa John\u2019s order was made without sharing bank security details \u2013 tech that could revolutionise shopping Retailers enter the unknown with AI shopping assistants on Black Friday An order of Papa John\u2019s margherita pizzas has become the first purchase in the UK to be made using an AI agent using cardless payment technology. The order of nine mini pizzas was made as part of the Financial Conduct Authority\u2019s (FCA) regulated sandbox trials to test the technology, using Lloyds Bank and payment specialist TrueLayer. Continue reading...",
+   "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T09:53:11+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+   "id": "be4fdb5ba2c7",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "Banks may pass on \u00a31.5bn tax rise to customers, warns Bank of England chief",
+   "summary": "Big lenders will aim to \u2018protect their earnings\u2019 amid temporary increase in corporation tax surcharge, says Andrew Bailey Business live \u2013 latest updates The governor of the Bank of England has warned that banks could look to pass on the \u00a31.5bn cost of Labour\u2019s increase to tax on their profits amid pressure on household finances. John Healey, the chancellor, used his first budget last month to temporarily increase the bank corporation tax surcharge from 3% to 6% for a 15 month period from January, with the proceeds to be used to fund \u201cbreathing space\u201d measures for households. Continue reading..",
+   "url": "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T10:10:29+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+   "id": "0ebcdb1c9987",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
+   "summary": "Anti-Slapps campaigners criticise draft bill, saying process of dismissing claims will be challenging and costly The government is to back legislation aimed at preventing wealthy and powerful individuals using the courts to silence critics and curb free speech. The justice minister Sarah Sackman told parliament on Friday that Labour would support a private member\u2019s bill sponsored by the Conservative MP Sir John Whittingdale, who is spearheading the latest attempt to bring in anti-Slapp measures. Continue reading...",
+   "url": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T10:14:03+00:00",
+   "canon": "https://theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
+   "id": "c9f82e739e74",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "Stocks are poised for a Friday jump \u2014 right into a $100 billion wave of automated selling, Goldman Sachs warns",
+   "summary": "Goldman Sachs traders say one big bout of selling is left for stocks this year by some trend-following trend funds.",
+   "url": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T10:54:00+00:00",
+   "canon": "https://marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
+   "id": "74949f3bf00a",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
+   "summary": "The German software company is reportedly reducing its workforce by between 9% and 10% to transition to the artificial-intelligence era",
+   "url": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T10:49:00+00:00",
+   "canon": "https://marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
+   "id": "696711a47de3",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "This investment strategist is 100% in cash \u2014 and warns that buying the Nasdaq dip is like catching a falling knife",
+   "summary": "Strategist Darius Dale\u2019s model portfolios both turned bearish earlier in the fall, with concerns about an overheating economy, too-hot inflation and upward pressure on interest rates. At some point, the market will start to discount an easing cycle and better conditions for risk-on, but not yet.",
+   "url": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T10:37:00+00:00",
+   "canon": "https://marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+   "id": "0b63f5a046e1",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "The AI stock crash is mostly over, JPMorgan says \u2014 but a worse phase could be coming in 2027",
+   "summary": "The crash in artificial-intelligence stocks has just about run its course, but a worse phase could be in store for next year, say JPMorgan\u2019s European quant team.",
+   "url": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T10:32:00+00:00",
+   "canon": "https://marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
+   "id": "854b29d5f372",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my children through the same ordeal?",
+   "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for clearing out your house.",
+   "url": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T10:15:00+00:00",
+   "canon": "https://marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+   "id": "b6034afdedc4",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death",
+   "summary": "Presley Gerber\u2019s Hollywood Hills home has hit the market for $3.59 million, less than two months after the model\u2019s death at age 27.",
+   "url": "https://www.marketwatch.com/story/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-6-million-2-months-after-his-death-92497183?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T09:59:00+00:00",
+   "canon": "https://marketwatch.com/story/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-6-million-2-months-after-his-death-92497183?mod=mw_rss_topstories",
+   "id": "1492ef3e46ff",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "Indonesia arrests three over alleged market manipulation",
+   "summary": "Move follows MSCI\u2019s threat to downgrade country to standalone market status",
+   "url": "https://www.ft.com/content/50626b00-6d7b-47ac-b1f2-4b150ff9417e?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T10:54:42+00:00",
+   "canon": "https://ft.com/content/50626b00-6d7b-47ac-b1f2-4b150ff9417e?syn-25a6b1a6=1",
+   "id": "d01fccf318b5",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "If we say the pay, let\u2019s say the pension",
+   "summary": "Disclosing pension contributions on job ads would get people talking about their retirement prospects",
+   "url": "https://www.ft.com/content/bc44826f-2c9c-4f3e-a065-72e64d14ee84?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T10:54:25+00:00",
+   "canon": "https://ft.com/content/bc44826f-2c9c-4f3e-a065-72e64d14ee84?syn-25a6b1a6=1",
+   "id": "1d6b84e38a42",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "92 Labour MPs call for Rosebank oilfield to be rejected",
+   "summary": "Letter addressed to prime minister says approving the project would \u2018permanently damage our climate credentials\u2019",
+   "url": "https://www.ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T10:21:13+00:00",
+   "canon": "https://ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
+   "id": "2b5fad41f4a4",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "Ladbrokes owner to settle Australia money laundering case",
+   "summary": "Entain agrees preliminary settlement with financial crimes watchdog for $124mn over breaches of rules ahead of court hearing",
+   "url": "https://www.ft.com/content/5fe8a858-6ed2-40f0-a0f3-e8742b7656aa?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T09:51:44+00:00",
+   "canon": "https://ft.com/content/5fe8a858-6ed2-40f0-a0f3-e8742b7656aa?syn-25a6b1a6=1",
+   "id": "62f4f666fbb9",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "UK Department for Work and Pensions hit by cyber incident",
+   "summary": "Agency says it has taken some online services down but regular pension and benefit payments are not affected",
+   "url": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T09:32:47+00:00",
+   "canon": "https://ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
+   "id": "aa7684cab564",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "How do you solve a problem like the Met?",
+   "summary": "Narrowing the focus of the UK\u2019s largest police force may be the key triumph of Shabana Mahmood\u2019s reforms",
+   "url": "https://www.ft.com/content/c9aefc31-fedc-489a-8b77-0547d7f6f29f?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T09:30:05+00:00",
+   "canon": "https://ft.com/content/c9aefc31-fedc-489a-8b77-0547d7f6f29f?syn-25a6b1a6=1",
+   "id": "cebd2bbc1687",
+   "first_seen": "2026-11-27T10:59:47.392523+00:00"
   }
  ],
- "updated": "2026-11-27T09:16:38.480296+00:00"
+ "updated": "2026-11-27T10:59:47.392523+00:00"
 }
