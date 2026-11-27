@@ -991,28 +991,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-   "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
-   "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-   "source": "CNBC Economy",
-   "tier": "news",
-   "published": "2026-11-13T15:44:16+00:00",
-   "canon": "https://cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-   "id": "5223222b0033",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
-   "title": "Bessent blames Lutnick\u2019s Commerce as he slams Nvidia chip \u2018leakage\u2019 to China",
-   "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy.",
-   "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-   "source": "CNBC Economy",
-   "tier": "news",
-   "published": "2026-11-13T17:06:57+00:00",
-   "canon": "https://cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-   "id": "b7842992a2bb",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Peterson: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central bank of AI\u2019",
    "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
@@ -1516,28 +1494,6 @@
    "published": "2026-11-16T15:14:38+00:00",
    "canon": "https://theconversation.com/what-does-an-ai-generated-label-in-advertising-actually-tell-us-293457",
    "id": "9d57c27daef7",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
-   "title": "The Microsoft outage is an urgent wake-up call for greater digital resilience",
-   "summary": "The infrastructure of the internet is more fragile than we\u2019d like it to be.",
-   "url": "https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610",
-   "source": "The Conversation Economy",
-   "tier": "analysis",
-   "published": "2026-11-13T17:15:05+00:00",
-   "canon": "https://theconversation.com/the-microsoft-outage-is-an-urgent-wake-up-call-for-greater-digital-resilience-296610",
-   "id": "87c3e754650b",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
-   "title": "In a world of anti-environment backlash, Andy Burnham walks a line between popular and green",
-   "summary": "Andy Burnham\u2019s consumer focus might cut fossil fuel use in the long-term, if policies force prices of climate friendly options down.",
-   "url": "https://theconversation.com/in-a-world-of-anti-environment-backlash-andy-burnham-walks-a-line-between-popular-and-green-296538",
-   "source": "The Conversation Economy",
-   "tier": "analysis",
-   "published": "2026-11-13T15:07:46+00:00",
-   "canon": "https://theconversation.com/in-a-world-of-anti-environment-backlash-andy-burnham-walks-a-line-between-popular-and-green-296538",
-   "id": "a5115447a50c",
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
@@ -6313,7 +6269,128 @@
    "canon": "https://ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
    "id": "cafb58003384",
    "first_seen": "2026-11-27T15:04:12.686582+00:00"
+  },
+  {
+   "title": "Will new energy fixes cost more in January?",
+   "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+   "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-27T16:05:32+00:00",
+   "canon": "https://bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+   "id": "28032b6cd2d5",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "\u2018Punched in the guts\u2019: Poundland staff left reeling as it goes into administration",
+   "summary": "Workers are sad but unsurprised as closures and job losses loom, while 2,000 suppliers will take a big hit Poundland staff fear they\u2019ll be left out in the cold for Christmas. When will workers have a say in their future? \u201cI feel Gordon Brothers punched us in the guts and took us down,\u201d says Kelvin Blake, one of thousands of Poundland workers at risk of redundancy after the budget retailer\u2019s US-based owners rejected at least two solvent bids for it. While administrators at AlixPartners, who were appointed on Wednesday, continue to consider bids for the whole group, which has 600 stores in the U",
+   "url": "https://www.theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T15:00:13+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/27/poundland-staff-administration-closures-job-losses-suppliers",
+   "id": "598faf96d3a6",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "British Gas owner seeks urgent government talks over future of storage facility",
+   "summary": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can \u2018to save your jobs\u2019 The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he was seeking urgent talks with Andy Burnham and would do everything he could to save jobs. Chris O\u2019Shea, the chief executive of Centrica, reportedly told staff at the Rough gas storage facility off the east Yorkshire that the government had rebuffed the company\u2019s plea for short-term support to run the store over the winter. Continue reading...",
+   "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T15:56:32+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+   "id": "dd019555d75b",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+   "summary": "Norwegian airline tells customers not to come to airports after surging fuel costs caused by Iran war ruin finances Norse Atlantic Airways has filed for bankruptcy and cancelled all future flights after surging fuel costs caused by the Iran war ruined its finances. The Norwegian airline said it was entering insolvency and posted a message on its website telling customers not to come to airports \u2013 including passengers stranded away from home. Its collapse came a day after it put flights on hold with a warning that its finances were critical. Continue reading...",
+   "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T15:40:35+00:00",
+   "canon": "https://theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+   "id": "17635848c490",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "Too old for soft toys? Tell that to kidults booking up the Harrods Jellycat cafe",
+   "summary": "Department stores are hosting in-person events for those who find comfort in collecting the British soft toy brand They\u2019re cute, cuddly and taking over the homes of young adults. Jellycat, a British soft toy brand founded in 1999, is experiencing a rise in interest from adult buyers as they snap up signature smiley designs in the shape of everything from croissants and disco balls to turtles and teabags. Continue reading...",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T15:12:03+00:00",
+   "canon": "https://theguardian.com/lifeandstyle/2026/nov/27/jellycat-soft-toys-kidults-harrods-cafe-galerie-lafayette",
+   "id": "3c1c86e60afc",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia",
+   "summary": "Nvidia\u2019s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+   "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T15:52:00+00:00",
+   "canon": "https://marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+   "id": "8075cb559046",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "My friends play \u2018credit-card roulette\u2019 to see who pays for dinner \u2014 but one \u2018winner\u2019 still Venmoed me afterward. Should I say something?",
+   "summary": "\u2018I was stunned! I\u2019ve lost my fair share, and won my fair share, and truly believe it all evens out over time.\u2019",
+   "url": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T15:04:00+00:00",
+   "canon": "https://marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
+   "id": "1c502eaaecab",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "M\u00e9lenchon takes aim at Germany in Berlin campaign stop",
+   "summary": "Far-left presidential candidate has increased his attacks on France\u2019s neighbour and closest ally",
+   "url": "https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T16:45:39+00:00",
+   "canon": "https://ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1",
+   "id": "d180b3ce1ee3",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "AI caramba",
+   "summary": "We may need to start thinking about the impact a bear market in US tech stocks would have on the real economy",
+   "url": "https://www.ft.com/content/9c54e827-3786-4bad-ae06-f9a3f31fcab5",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T16:30:05+00:00",
+   "canon": "https://ft.com/content/9c54e827-3786-4bad-ae06-f9a3f31fcab5",
+   "id": "989eb2da2740",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "Russia set to criminalise sharing information about Ukrainian strikes",
+   "summary": "Moscow looks to extend wartime crackdown to pro-war bloggers and regular citizens posting about Kyiv\u2019s drones hitting oil refineries",
+   "url": "https://www.ft.com/content/53a48a14-eadf-4fe3-bd33-9facd4c90266?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T15:16:07+00:00",
+   "canon": "https://ft.com/content/53a48a14-eadf-4fe3-bd33-9facd4c90266?syn-25a6b1a6=1",
+   "id": "fbe6258a8ae0",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "From Jobs to Jensen: tech\u2019s metamorphosis",
+   "summary": "The Nvidia saga is part of a bigger, stranger story about Silicon Valley\u2019s political transformation",
+   "url": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T15:10:17+00:00",
+   "canon": "https://ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+   "id": "9fba45332053",
+   "first_seen": "2026-11-27T17:16:39.245698+00:00"
   }
  ],
- "updated": "2026-11-27T15:04:12.686582+00:00"
+ "updated": "2026-11-27T17:16:39.245698+00:00"
 }
