@@ -1321,17 +1321,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-   "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-   "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-   "source": "CNBC Markets",
-   "tier": "news",
-   "published": "2026-11-13T14:22:07+00:00",
-   "canon": "https://cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-   "id": "51664e44215b",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Micron boosted CEO Sanjay Mehrotra\u2019s security budget by 2,000%, new filing shows",
    "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
    "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
@@ -6247,7 +6236,84 @@
    "canon": "https://ft.com/content/cbfea4ac-ea67-46d2-b5a2-a36a0794b3fe?syn-25a6b1a6=1",
    "id": "2fd975570ef1",
    "first_seen": "2026-11-27T13:24:33.539509+00:00"
+  },
+  {
+   "title": "UK\u2019s taste for cow\u2019s milk sours as sales hit record low",
+   "summary": "Environmental and animal welfare concerns, and taste preferences, are behind rising popularity of vegan alternatives Has milk gotta lotta bottle? It may not have as much as it used to, with official data showing Britons are buying less cow\u2019s milk than at any point since records began. Guardian analysis of the government\u2019s family food survey shows the average person bought 1.8 pints (1,024ml) of cow\u2019s milk a week in 2024-25 \u2013 the lowest level in the record\u2019s 52-year history and less than half the amount of milk bought in 1974. Continue reading...",
+   "url": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T13:32:07+00:00",
+   "canon": "https://theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
+   "id": "51e20f3127c3",
+   "first_seen": "2026-11-27T15:04:12.686582+00:00"
+  },
+  {
+   "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+   "summary": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they don\u2019t seem to be generating revenues from it at the same rate.",
+   "url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T15:01:00+00:00",
+   "canon": "https://marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+   "id": "f57abafdb2b7",
+   "first_seen": "2026-11-27T15:04:12.686582+00:00"
+  },
+  {
+   "title": "Renters are now a national political constituency that can influence elections",
+   "summary": "Renters backed Democrats 61% to 31% in the midterms, a 30-point margin, according to YouGov.",
+   "url": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T13:30:00+00:00",
+   "canon": "https://marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
+   "id": "fc09b62039c3",
+   "first_seen": "2026-11-27T15:04:12.686582+00:00"
+  },
+  {
+   "title": "Inflation and interest rates tracker: see how your country compares",
+   "summary": "Explore the latest data through interactive charts",
+   "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T13:39:05+00:00",
+   "canon": "https://ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
+   "id": "f3242e37d84b",
+   "first_seen": "2026-11-27T15:04:12.686582+00:00"
+  },
+  {
+   "title": "The reforms the NHS needs (and those it doesn\u2019t)",
+   "summary": "Different age groups make totally different demands on healthcare \u2014 here\u2019s what I learnt in adapting how the London Ambulance Service responds",
+   "url": "https://www.ft.com/content/901cc148-f3ed-460b-b2ed-8024f9ddff1d",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T13:27:45+00:00",
+   "canon": "https://ft.com/content/901cc148-f3ed-460b-b2ed-8024f9ddff1d",
+   "id": "a6103001d165",
+   "first_seen": "2026-11-27T15:04:12.686582+00:00"
+  },
+  {
+   "title": "EU weighs tighter export controls to prevent battery waste going to China",
+   "summary": "\u2018Black mass\u2019 containing key minerals is often processed abroad and the extracted metals re-exported to Europe",
+   "url": "https://www.ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T13:26:26+00:00",
+   "canon": "https://ft.com/content/a8ecccda-f986-4ae9-9f45-9470d2be8c65?syn-25a6b1a6=1",
+   "id": "905757813207",
+   "first_seen": "2026-11-27T15:04:12.686582+00:00"
+  },
+  {
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "summary": "",
+   "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "source": "ECB Press",
+   "tier": "primary",
+   "published": "2026-11-27T14:00:00+00:00",
+   "canon": "https://ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "id": "cafb58003384",
+   "first_seen": "2026-11-27T15:04:12.686582+00:00"
   }
  ],
- "updated": "2026-11-27T13:24:33.539509+00:00"
+ "updated": "2026-11-27T15:04:12.686582+00:00"
 }
