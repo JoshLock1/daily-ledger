@@ -6390,7 +6390,117 @@
    "canon": "https://ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
    "id": "9fba45332053",
    "first_seen": "2026-11-27T17:16:39.245698+00:00"
+  },
+  {
+   "title": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
+   "summary": "Warning of \u2018lights out for Labour in Scotland\u2019 as Burnham faces choice between warring factions over North Sea drilling project Dozens of Labour MPs in favour of Rosebank are putting pressure on the prime minister not to block the North Sea oilfield, warning that doing so could spell \u201clights out for Labour in Scotland\u201d. As many as 80 pro-drilling MPs are considering writing their own letter to Andy Burnham after nearly 100 of their colleagues called on the prime minister not to allow the project to proceed . Scottish Labour leader Michael Marra has also reiterated his support for Rosebank, cau",
+   "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T17:39:10+00:00",
+   "canon": "https://theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+   "id": "d9a3ee173fd3",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
+  },
+  {
+   "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
+   "summary": "Greenpeace publishes report showing tech firm is continuing to build despite planning appeal still unresolved Belgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the US tech firm\u2019s requests to modify the original terms of the planning permission did not have approval. \u201cInspectors visited the site and observed that the building was almost finished, with the structural work completed, even though the permit had been refused,\u201d Rapha\u00ebl Stokis, a Wallonia regional official, told the public broadcaster RTBF . Continue reading...",
+   "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T17:21:18+00:00",
+   "canon": "https://theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+   "id": "62bfe894c2cc",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
+  },
+  {
+   "title": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
+   "summary": "Machines are solving problems that have been beyond the reach of human ingenuity. Their growing power must not become the sole preserve of billionaires For the average person, the news that AI has helped crack a problem that has defied mathematicians since 1859 might elicit momentary awe. What ought to worry everyone is not the discovery per se, but what it says about the power of the machines making it. The pace of scientific discovery looks like it is outrunning the ability of humanity \u2013 and its institutions \u2013 to understand, let alone regulate, AI\u2019s advances. Last Friday Levent Alp\u00f6ge , a ma",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-27T18:07:43+00:00",
+   "canon": "https://theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy",
+   "id": "8ddd1acd91bc",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
+  },
+  {
+   "title": "The warnings behind this week\u2019s stock-market rally",
+   "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+   "url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T18:40:00+00:00",
+   "canon": "https://marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+   "id": "4c3f76e1e505",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
+  },
+  {
+   "title": "Poundland: the collapse of a high street chain can mean major economic fallout",
+   "summary": "Discount stores will still be popular as the cost-of-living crisis continues.",
+   "url": "https://theconversation.com/poundland-the-collapse-of-a-high-street-chain-can-mean-major-economic-fallout-297759",
+   "source": "The Conversation Economy",
+   "tier": "analysis",
+   "published": "2026-11-27T18:02:50+00:00",
+   "canon": "https://theconversation.com/poundland-the-collapse-of-a-high-street-chain-can-mean-major-economic-fallout-297759",
+   "id": "bece054a8ef4",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
+  },
+  {
+   "title": "Trump\u2019s Nvidia intervention has a cost for US stocks",
+   "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+   "url": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T18:26:25+00:00",
+   "canon": "https://ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+   "id": "cda37e20d39c",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
+  },
+  {
+   "title": "OpenAI countersues Apple for stealing trade secrets",
+   "summary": "The ChatGPT maker also accuses the tech giant of \u2018coercing and threatening\u2019 suppliers who work with both companies, as legal battle escalates",
+   "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T18:20:05+00:00",
+   "canon": "https://ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+   "id": "94bb3949e518",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
+  },
+  {
+   "title": "Haircare tycoon Herman Mashaba named Johannesburg mayor",
+   "summary": "Combative leader of ActionSA squeezes out pro-business Democratic Alliance after deal with ANC and two populist parties",
+   "url": "https://www.ft.com/content/9cdc5817-0c7f-42d0-a6ae-bfd7006e4c9b?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T18:15:16+00:00",
+   "canon": "https://ft.com/content/9cdc5817-0c7f-42d0-a6ae-bfd7006e4c9b?syn-25a6b1a6=1",
+   "id": "f3d6255ae036",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
+  },
+  {
+   "title": "Verizon in talks over $6bn deal for Fidium to boost broadband footprint",
+   "summary": "US group pursues company owned by Searchlight Capital and Canada\u2019s BCI in push to boost its presence in New England region",
+   "url": "https://www.ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T17:29:29+00:00",
+   "canon": "https://ft.com/content/19c8508b-0dc6-492c-9f68-497da516a398?syn-25a6b1a6=1",
+   "id": "40001c795a11",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
+  },
+  {
+   "title": "Former UK Supreme Court justice Jonathan Sumption: \u2018We never got back control\u2019",
+   "summary": "The barrister and medieval historian on the fragility of democracy, the folly of Brexit and why politicians need to learn from the past",
+   "url": "https://www.ft.com/content/97f1dda5-2219-4e14-a716-569aab163e08?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T12:30:04+00:00",
+   "canon": "https://ft.com/content/97f1dda5-2219-4e14-a716-569aab163e08?syn-25a6b1a6=1",
+   "id": "8407ea2674a9",
+   "first_seen": "2026-11-27T19:05:27.175036+00:00"
   }
  ],
- "updated": "2026-11-27T17:16:39.245698+00:00"
+ "updated": "2026-11-27T19:05:27.175036+00:00"
 }
