@@ -331,17 +331,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-   "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-   "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "tier": "news",
-   "published": "2026-11-13T12:22:30+00:00",
-   "canon": "https://bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-   "id": "1c1fbd11b951",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Welfare cuts: What's been happening with Pip and universal credit?",
    "summary": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
    "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
@@ -6170,7 +6159,95 @@
    "canon": "https://ft.com/content/c9aefc31-fedc-489a-8b77-0547d7f6f29f?syn-25a6b1a6=1",
    "id": "cebd2bbc1687",
    "first_seen": "2026-11-27T10:59:47.392523+00:00"
+  },
+  {
+   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "summary": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+   "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "source": "CNBC Markets",
+   "tier": "news",
+   "published": "2026-11-27T13:21:56+00:00",
+   "canon": "https://cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "id": "097482a1339e",
+   "first_seen": "2026-11-27T13:24:33.539509+00:00"
+  },
+  {
+   "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn\u2019t bank on it.",
+   "summary": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he\u2019s up for capping the interest rates they\u2019re paying on their cards.",
+   "url": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T12:29:00+00:00",
+   "canon": "https://marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+   "id": "eb448f67db0f",
+   "first_seen": "2026-11-27T13:24:33.539509+00:00"
+  },
+  {
+   "title": "Nvidia\u2019s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+   "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
+   "url": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T12:29:00+00:00",
+   "canon": "https://marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+   "id": "9f4991128970",
+   "first_seen": "2026-11-27T13:24:33.539509+00:00"
+  },
+  {
+   "title": "Stocks look like a Black Friday bargain. Read the fine print.",
+   "summary": "Analysts raised their profit forecasts for S&P 500 companies during the selloff. Plus, how to spot a bogus boutique and what Jensen Huang is doing in your 401(k).",
+   "url": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-27T12:01:00+00:00",
+   "canon": "https://marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
+   "id": "bb39a56c7ff3",
+   "first_seen": "2026-11-27T13:24:33.539509+00:00"
+  },
+  {
+   "title": "Brexit bear traps for Labour, Tories and Reform",
+   "summary": "Plus, influencer row engulfs No 10",
+   "url": "https://www.ft.com/content/8de00d12-8965-41e0-929a-76e80b1ada8e?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T13:13:04+00:00",
+   "canon": "https://ft.com/content/8de00d12-8965-41e0-929a-76e80b1ada8e?syn-25a6b1a6=1",
+   "id": "3ee25253a2a3",
+   "first_seen": "2026-11-27T13:24:33.539509+00:00"
+  },
+  {
+   "title": "London is playing a game of penthouse one-upmanship",
+   "summary": "A raft of huge new top-level homes is on the market, the size of which we may never see again. And with picky buyers and a tricky market, developers are pulling out all the stops",
+   "url": "https://www.ft.com/content/55d25c66-4405-4698-8fc9-9516010bd7fb",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T12:00:05+00:00",
+   "canon": "https://ft.com/content/55d25c66-4405-4698-8fc9-9516010bd7fb",
+   "id": "e3f838dba180",
+   "first_seen": "2026-11-27T13:24:33.539509+00:00"
+  },
+  {
+   "title": "Japanese carmakers\u2019 sales collapse amid China market plunge",
+   "summary": "Nissan\u2019s October sales in the country tumbled 67%, the lowest monthly figure since the Covid-19 pandemic",
+   "url": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T11:31:30+00:00",
+   "canon": "https://ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
+   "id": "eeb853bb6ff9",
+   "first_seen": "2026-11-27T13:24:33.539509+00:00"
+  },
+  {
+   "title": "Hostility to immigration threatens Europe\u2019s future",
+   "summary": "A defeat for Pedro S\u00e1nchez in Spain\u2019s election will remove the EU\u2019s last loud voice in favour of liberal policy",
+   "url": "https://www.ft.com/content/cbfea4ac-ea67-46d2-b5a2-a36a0794b3fe?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T11:16:10+00:00",
+   "canon": "https://ft.com/content/cbfea4ac-ea67-46d2-b5a2-a36a0794b3fe?syn-25a6b1a6=1",
+   "id": "2fd975570ef1",
+   "first_seen": "2026-11-27T13:24:33.539509+00:00"
   }
  ],
- "updated": "2026-11-27T10:59:47.392523+00:00"
+ "updated": "2026-11-27T13:24:33.539509+00:00"
 }
