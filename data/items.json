@@ -2014,17 +2014,6 @@
    "first_seen": "2026-11-24T23:08:50.924008+00:00"
   },
   {
-   "title": "Jefferson, New Technology, Old Questions: Productivity Puzzles and the Macroeconomy",
-   "summary": "Speech At the University of California, San Diego Economic Roundtable, San Diego, California",
-   "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-   "source": "Federal Reserve Speeches",
-   "tier": "primary",
-   "published": "2026-11-14T00:00:00+00:00",
-   "canon": "https://federalreserve.gov/newsevents/speech/jefferson20261113a.htm",
-   "id": "d3c8f2026263",
-   "first_seen": "2026-11-24T23:08:50.924008+00:00"
-  },
-  {
    "title": "Daniel E. Pinto appointed to the Bank of England\u2019s Financial Policy Committee",
    "summary": "Daniel E. Pinto has been appointed as an external member of the Financial Policy Committee.",
    "url": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
@@ -6500,7 +6489,62 @@
    "canon": "https://ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
    "id": "d2adc14f787f",
    "first_seen": "2026-11-27T23:03:59.812679+00:00"
+  },
+  {
+   "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+   "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+   "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+   "source": "CNBC Economy",
+   "tier": "news",
+   "published": "2026-11-28T06:00:01+00:00",
+   "canon": "https://cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+   "id": "152ba33b3fc2",
+   "first_seen": "2026-11-28T06:58:11.402065+00:00"
+  },
+  {
+   "title": "Copper thieves prey on Japan\u2019s ancient shrines in AI frenzy",
+   "summary": "Priests forced to abandon tradition and favour cheaper steel to repair roofs",
+   "url": "https://www.ft.com/content/98b72508-3d41-4f03-9a9a-bfb345e3a902?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-28T01:01:26+00:00",
+   "canon": "https://ft.com/content/98b72508-3d41-4f03-9a9a-bfb345e3a902?syn-25a6b1a6=1",
+   "id": "cefa175324d7",
+   "first_seen": "2026-11-28T06:58:11.402065+00:00"
+  },
+  {
+   "title": "The Chinese car champion turning to police and nurse robots",
+   "summary": "Jaecoo owner Chery tries to make up lost ground after coming late to EV revolution",
+   "url": "https://www.ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-28T01:00:07+00:00",
+   "canon": "https://ft.com/content/f83dd2dc-f51e-4151-9139-cf1918eb9d0a?syn-25a6b1a6=1",
+   "id": "6f07100dfe46",
+   "first_seen": "2026-11-28T06:58:11.402065+00:00"
+  },
+  {
+   "title": "The \u2018diehard separatist\u2019 shaking up Taipei\u2019s election",
+   "summary": "Local polls across Taiwan are a test of support for the governing DPP ahead of crucial presidential vote in 2028",
+   "url": "https://www.ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T23:50:03+00:00",
+   "canon": "https://ft.com/content/1953fdc7-b061-4a0c-86c5-5ffd00ebcec4?syn-25a6b1a6=1",
+   "id": "b3cf4a42add7",
+   "first_seen": "2026-11-28T06:58:11.402065+00:00"
+  },
+  {
+   "title": "South Africa\u2019s credit rating upgraded after years of economic stagnation",
+   "summary": "S&P says Pretoria\u2019s \u2018fiscal performance has consistently outperformed budget targets\u2019",
+   "url": "https://www.ft.com/content/892ffe2f-1641-4e3d-b0d6-2693ca15cc95?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-27T23:13:58+00:00",
+   "canon": "https://ft.com/content/892ffe2f-1641-4e3d-b0d6-2693ca15cc95?syn-25a6b1a6=1",
+   "id": "eceb07c68413",
+   "first_seen": "2026-11-28T06:58:11.402065+00:00"
   }
  ],
- "updated": "2026-11-27T23:03:59.812679+00:00"
+ "updated": "2026-11-28T06:58:11.402065+00:00"
 }
