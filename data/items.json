@@ -6852,7 +6852,95 @@
    "canon": "https://theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
    "id": "bfc359c3bab4",
    "first_seen": "2026-11-28T10:56:50.049860+00:00"
+  },
+  {
+   "title": "Christmas market 'absolutely vital' for businesses",
+   "summary": "The Truro market began on 21 November.",
+   "url": "https://www.bbc.co.uk/news/videos/cx1l0evzj54qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-28T12:09:09+00:00",
+   "canon": "https://bbc.co.uk/news/videos/cx1l0evzj54qo?at_medium=RSS&at_campaign=rss",
+   "id": "5e7ac2a63ed0",
+   "first_seen": "2026-11-28T13:06:36.213635+00:00"
+  },
+  {
+   "title": "Poundland closure 'big loss' for former mining town",
+   "summary": "Shoppers and staff reflect on the possible closure of the Poundland store in Camborne.",
+   "url": "https://www.bbc.co.uk/news/videos/ckvg20jj2r1po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "tier": "news",
+   "published": "2026-11-28T12:07:08+00:00",
+   "canon": "https://bbc.co.uk/news/videos/ckvg20jj2r1po?at_medium=RSS&at_campaign=rss",
+   "id": "7e06f4f465a1",
+   "first_seen": "2026-11-28T13:06:36.213635+00:00"
+  },
+  {
+   "title": "DWP cyber incident \u2018probably an attack\u2019, says former UK chief technology officer",
+   "summary": "Government took down pensions and benefits portal on Thursday but said regular payments will not be affected A serious cyber incident that forced ministers to take down online benefits and pension services was \u201cprobably an attack\u201d, the UK\u2019s former chief technology officer has said. The Department for Work and Pensions took down several systems that appeared to still be offline on Saturday morning. David Knott, who led government technology until December 2025, said much infrastructure was outdated, and underinvestment in defence and increasing sophistication of attacks meant it was only gettin",
+   "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-28T10:52:00+00:00",
+   "canon": "https://theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+   "id": "df39efc32259",
+   "first_seen": "2026-11-28T13:06:36.213635+00:00"
+  },
+  {
+   "title": "Under the influence: how creator marketing upended advertising",
+   "summary": "Brands are piggybacking off the potential sales that targeting millions of ardent followers can bring \u2013 but there are risks From the Avon ladies to the former Sex Pistols lead singer John Lydon selling butter , personal endorsement of products is a well-trodden form of marketing with significant gains \u2013 and pitfalls. More recently, the practice of teaming up with social media influencers has become a boom in the ad industry over the last decade \u2013 and came firmly into the spotlight this week. First, the Guardian revealed that Unilever, the consumer goods behemoth behind huge brands including Do",
+   "url": "https://www.theguardian.com/media/2026/nov/28/influencer-marketing-advertising-brands-millions-followers-social-media",
+   "source": "The Guardian Business",
+   "tier": "news",
+   "published": "2026-11-28T11:00:37+00:00",
+   "canon": "https://theguardian.com/media/2026/nov/28/influencer-marketing-advertising-brands-millions-followers-social-media",
+   "id": "51d570960c14",
+   "first_seen": "2026-11-28T13:06:36.213635+00:00"
+  },
+  {
+   "title": "These tech stocks may let you play defense without giving up on AI",
+   "summary": "Amphenol, CDW, Sensata Technologies and TE Connectivity stood out when an Evercore analyst did a stress test of the hardware-related stocks he covers.",
+   "url": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
+   "source": "MarketWatch Top Stories",
+   "tier": "news",
+   "published": "2026-11-28T12:30:00+00:00",
+   "canon": "https://marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
+   "id": "42d392be8a9a",
+   "first_seen": "2026-11-28T13:06:36.213635+00:00"
+  },
+  {
+   "title": "The outsider from Cannes shaking up France\u2019s presidential race",
+   "summary": "Rightwing mayor David Lisnard has surged in polls with punchy attacks on the bloated state and promises of radical spending cuts",
+   "url": "https://www.ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-28T12:00:03+00:00",
+   "canon": "https://ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1",
+   "id": "6f0a58a6f329",
+   "first_seen": "2026-11-28T13:06:36.213635+00:00"
+  },
+  {
+   "title": "El Guapo\u2019s last gasp?",
+   "summary": "The polls look grim for Pedro S\u00e1nchez \u2014 but a rightwing coalition won\u2019t be smooth sailing if his opponents triumph",
+   "url": "https://www.ft.com/content/19dd970c-6258-49ad-8f2d-df90bff90ef2?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-28T11:00:02+00:00",
+   "canon": "https://ft.com/content/19dd970c-6258-49ad-8f2d-df90bff90ef2?syn-25a6b1a6=1",
+   "id": "300a6d7895de",
+   "first_seen": "2026-11-28T13:06:36.213635+00:00"
+  },
+  {
+   "title": "Israeli strike kills two M\u00e9decins Sans Fronti\u00e8res workers in Gaza",
+   "summary": "Medical charity calls for accountability as Israeli military claims men were involved in Hamas",
+   "url": "https://www.ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c?syn-25a6b1a6=1",
+   "source": "Financial Times (headlines only)",
+   "tier": "news",
+   "published": "2026-11-28T10:14:12+00:00",
+   "canon": "https://ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c?syn-25a6b1a6=1",
+   "id": "0b78eaa28b4f",
+   "first_seen": "2026-11-28T13:06:36.213635+00:00"
   }
  ],
- "updated": "2026-11-28T10:56:50.049860+00:00"
+ "updated": "2026-11-28T13:06:36.213635+00:00"
 }
