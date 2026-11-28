@@ -1,70 +1,70 @@
 {
- "updated": "2026-11-28T08:08:03.196181+00:00",
+ "updated": "2026-11-28T08:58:28.880289+00:00",
  "sources": {
   "BBC Business": {
    "ok": true,
    "items": 53,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "The Guardian Business": {
    "ok": true,
-   "items": 38,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "items": 39,
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "CNBC Economy": {
    "ok": true,
    "items": 30,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "CNBC Markets": {
    "ok": true,
    "items": 30,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "MarketWatch Top Stories": {
    "ok": true,
    "items": 10,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "The Conversation Economy": {
    "ok": true,
    "items": 25,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "Financial Times (headlines only)": {
    "ok": true,
    "items": 25,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "The Economist Finance (headlines only)": {
    "ok": true,
    "items": 300,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "Federal Reserve Press Releases": {
    "ok": true,
    "items": 20,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "Federal Reserve Speeches": {
    "ok": true,
    "items": 15,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "Bank of England News": {
    "ok": true,
    "items": 50,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "ECB Press": {
    "ok": true,
    "items": 15,
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   },
   "BLS Latest Numbers": {
    "ok": false,
    "error": "HTTPError: HTTP Error 403: Forbidden",
-   "checked": "2026-11-28T08:08:03.196181+00:00"
+   "checked": "2026-11-28T08:58:28.880289+00:00"
   }
  }
 }
